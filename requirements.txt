@@ -1,0 +1,25 @@
+# Nepal E-Commerce Sales Intelligence - Dependencies
+# ==================================================
+# Install: pip install -r requirements.txt
+
+# Core Data Science
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.18
+
+# Machine Learning
+scikit-learn>=1.4
+xgboost>=2.0
+
+# Jupyter
+jupyter>=1.0
+ipykernel>=6.25
+nbformat>=5.9
+
+# Utilities
+tqdm>=4.65
