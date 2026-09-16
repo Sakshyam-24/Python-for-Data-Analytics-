@@ -1,0 +1,1201 @@
+OrderID,Date,City,Category,Price,Quantity,CustomerAge,PaymentMethod,Rating,TotalAmount,Month,MonthNum,Weekday,AgeGroup,RevenueSegment
+1000,2024-07-07,Lalitpur,Home & Kitchen,14300.14,2,21,Khalti,4.0,28600.28,July,7,Sunday,16-24,Enterprise
+1001,2024-05-29,Kathmandu,Beauty,2524.13,2,32,eSewa,4.2,5048.26,May,5,Wednesday,25-34,Premium
+1002,2024-01-22,Kathmandu,Home & Kitchen,3404.34,1,30,Khalti,3.8,3404.34,January,1,Monday,25-34,Standard
+1003,2024-06-23,Lalitpur,Home & Kitchen,14627.33,1,31,Khalti,4.1,14627.33,June,6,Sunday,25-34,Enterprise
+1004,2024-06-15,Kathmandu,Beauty,2547.92,1,30,Khalti,4.6,2547.92,June,6,Saturday,25-34,Standard
+1005,2024-09-20,Kathmandu,Clothing,939.52,1,27,Cash on Delivery,4.4,939.52,September,9,Friday,25-34,Budget
+1006,2024-09-16,Kathmandu,Clothing,2413.2,1,36,eSewa,4.2,2413.2,September,9,Monday,35-44,Standard
+1007,2024-07-26,Bhaktapur,Home & Kitchen,1442.23,1,51,Bank Transfer,5.0,1442.23,July,7,Friday,45-54,Budget
+1008,2024-01-15,Kathmandu,Home & Kitchen,8506.28,1,29,Khalti,3.9,8506.28,January,1,Monday,25-34,Premium
+1009,2024-10-15,Lalitpur,Groceries,577.22,2,31,Bank Transfer,4.6,1154.44,October,10,Tuesday,25-34,Budget
+1010,2024-02-17,Pokhara,Electronics,16559.8675,1,40,Khalti,5.0,16559.8675,February,2,Saturday,35-44,Enterprise
+1011,2024-04-10,Chitwan,Books,2684.2,1,34,eSewa,4.7,2684.2,April,4,Wednesday,25-34,Standard
+1012,2024-01-15,Kathmandu,Books,1582.63,1,17,Cash on Delivery,3.9,1582.63,January,1,Monday,16-24,Budget
+1013,2024-08-09,Kathmandu,Electronics,16559.8675,1,37,eSewa,5.0,16559.8675,August,8,Friday,35-44,Enterprise
+1014,2024-03-26,Biratnagar,Beauty,584.83,1,16,eSewa,4.8,584.83,March,3,Tuesday,16-24,Budget
+1015,2024-10-12,Biratnagar,Home & Kitchen,12212.14,1,23,Khalti,3.8,12212.14,October,10,Saturday,16-24,Enterprise
+1016,2024-04-30,Biratnagar,Books,508.15,1,16,eSewa,4.4,508.15,April,4,Tuesday,16-24,Budget
+1017,2024-11-10,Kathmandu,Groceries,746.59,1,46,Khalti,4.2,746.59,November,11,Sunday,45-54,Budget
+1018,2024-10-21,Pokhara,Electronics,16559.8675,1,20,eSewa,3.3,16559.8675,October,10,Monday,16-24,Enterprise
+1019,2024-12-08,Kathmandu,Electronics,16559.8675,1,28,eSewa,4.3,16559.8675,December,12,Sunday,25-34,Enterprise
+1020,2024-09-03,Lalitpur,Home & Kitchen,7158.52,1,23,Cash on Delivery,4.7,7158.52,September,9,Tuesday,16-24,Premium
+1021,2024-08-27,Biratnagar,Beauty,2639.53,1,30,Cash on Delivery,3.1,2639.53,August,8,Tuesday,25-34,Standard
+1022,2024-12-11,Pokhara,Groceries,1518.14,1,35,eSewa,3.1,1518.14,December,12,Wednesday,35-44,Budget
+1023,2024-12-25,Kathmandu,Electronics,16559.8675,1,22,Bank Transfer,3.8,16559.8675,December,12,Wednesday,16-24,Enterprise
+1024,2024-05-23,Biratnagar,Books,2148.2,1,30,eSewa,5.0,2148.2,May,5,Thursday,25-34,Standard
+1025,2024-01-09,Kathmandu,Books,2712.2,3,37,Cash on Delivery,4.5,8136.599999999999,January,1,Tuesday,35-44,Premium
+1026,2024-03-15,Chitwan,Books,2383.65,1,35,Khalti,5.0,2383.65,March,3,Friday,35-44,Standard
+1027,2024-12-31,Lalitpur,Books,2832.37,4,39,eSewa,5.0,11329.48,December,12,Tuesday,35-44,Enterprise
+1028,2024-10-30,Bhaktapur,Electronics,3539.33,1,38,Cash on Delivery,4.4,3539.33,October,10,Wednesday,35-44,Standard
+1029,2024-01-22,Kathmandu,Electronics,16559.8675,1,29,Cash on Delivery,4.4,16559.8675,January,1,Monday,25-34,Enterprise
+1030,2024-04-06,Lalitpur,Groceries,1142.55,1,17,Cash on Delivery,4.1,1142.55,April,4,Saturday,16-24,Budget
+1031,2024-01-17,Chitwan,Groceries,1472.81,2,16,Cash on Delivery,3.9,2945.62,January,1,Wednesday,16-24,Standard
+1032,2024-10-28,Chitwan,Home & Kitchen,1019.48,3,22,Cash on Delivery,2.9,3058.44,October,10,Monday,16-24,Standard
+1033,2024-08-10,Biratnagar,Groceries,506.78,1,35,Khalti,3.2,506.78,August,8,Saturday,35-44,Budget
+1034,2024-04-13,Bhaktapur,Groceries,808.7,1,21,eSewa,5.0,808.7,April,4,Saturday,16-24,Budget
+1035,2024-01-13,Kathmandu,Clothing,4145.51,2,24,Cash on Delivery,4.0,8291.02,January,1,Saturday,16-24,Premium
+1036,2024-12-07,Kathmandu,Home & Kitchen,9019.88,1,31,eSewa,4.2,9019.88,December,12,Saturday,25-34,Premium
+1037,2024-04-10,Pokhara,Clothing,4201.7,1,23,Khalti,4.6,4201.7,April,4,Wednesday,16-24,Standard
+1038,2024-12-15,Lalitpur,Home & Kitchen,12756.73,1,30,Bank Transfer,4.8,12756.73,December,12,Sunday,25-34,Enterprise
+1039,2024-04-29,Kathmandu,Home & Kitchen,10947.25,1,22,eSewa,4.0,10947.25,April,4,Monday,16-24,Enterprise
+1040,2024-05-08,Kathmandu,Beauty,599.23,1,25,eSewa,3.6,599.23,May,5,Wednesday,25-34,Budget
+1041,2024-09-28,Pokhara,Electronics,16559.8675,1,22,Cash on Delivery,5.0,16559.8675,September,9,Saturday,16-24,Enterprise
+1042,2024-03-26,Kathmandu,Groceries,694.55,1,27,eSewa,5.0,694.55,March,3,Tuesday,25-34,Budget
+1043,2024-08-09,Lalitpur,Beauty,2051.85,1,27,eSewa,4.5,2051.85,August,8,Friday,25-34,Standard
+1044,2024-11-20,Bhaktapur,Groceries,1307.53,2,35,Bank Transfer,4.2,2615.06,November,11,Wednesday,35-44,Standard
+1045,2024-05-31,Lalitpur,Home & Kitchen,9118.01,3,20,Cash on Delivery,4.3,27354.03,May,5,Friday,16-24,Enterprise
+1046,2024-06-16,Chitwan,Groceries,2359.52,1,32,eSewa,3.6,2359.52,June,6,Sunday,25-34,Standard
+1047,2024-04-24,Kathmandu,Beauty,3426.04,1,33,Khalti,3.5,3426.04,April,4,Wednesday,25-34,Standard
+1048,2024-09-05,Lalitpur,Beauty,444.99,1,45,Khalti,2.6,444.99,September,9,Thursday,45-54,Budget
+1049,2024-04-05,Kathmandu,Groceries,1090.28,1,43,Cash on Delivery,3.7,1090.28,April,4,Friday,35-44,Budget
+1050,2024-03-24,Biratnagar,Electronics,16559.8675,1,36,Khalti,3.9,16559.8675,March,3,Sunday,35-44,Enterprise
+1051,2024-09-21,Kathmandu,Home & Kitchen,14411.29,2,47,Khalti,5.0,28822.58,September,9,Saturday,45-54,Enterprise
+1052,2024-02-22,Biratnagar,Groceries,1545.86,1,23,Khalti,4.1,1545.86,February,2,Thursday,16-24,Budget
+1053,2024-11-26,Kathmandu,Beauty,3027.03,1,30,eSewa,3.6,3027.03,November,11,Tuesday,25-34,Standard
+1054,2024-06-16,Kathmandu,Beauty,3402.38,1,35,eSewa,4.8,3402.38,June,6,Sunday,35-44,Standard
+1055,2024-12-30,Pokhara,Beauty,1162.94,1,23,Cash on Delivery,3.9,1162.94,December,12,Monday,16-24,Budget
+1056,2024-01-19,Kathmandu,Books,2174.24,1,27,eSewa,4.1,2174.24,January,1,Friday,25-34,Standard
+1057,2024-12-26,Bhaktapur,Clothing,3834.38,2,20,Khalti,4.7,7668.76,December,12,Thursday,16-24,Premium
+1058,2024-04-26,Chitwan,Home & Kitchen,4857.11,2,32,eSewa,4.1,9714.22,April,4,Friday,25-34,Premium
+1059,2024-02-16,Lalitpur,Groceries,1768.99,1,26,Khalti,5.0,1768.99,February,2,Friday,25-34,Budget
+1060,2024-01-12,Chitwan,Books,1275.77,2,28,eSewa,3.6,2551.54,January,1,Friday,25-34,Standard
+1061,2024-03-30,Pokhara,Beauty,1326.31,1,23,Khalti,3.4,1326.31,March,3,Saturday,16-24,Budget
+1062,2024-05-24,Kathmandu,Home & Kitchen,14804.19,1,45,eSewa,2.9,14804.19,May,5,Friday,45-54,Enterprise
+1063,2024-03-22,Pokhara,Beauty,3670.43,2,37,eSewa,4.2,7340.86,March,3,Friday,35-44,Premium
+1064,2024-04-28,Pokhara,Books,2624.98,1,29,eSewa,5.0,2624.98,April,4,Sunday,25-34,Standard
+1065,2024-12-07,Biratnagar,Groceries,1525.91,1,23,eSewa,4.2,1525.91,December,12,Saturday,16-24,Budget
+1066,2024-07-15,Chitwan,Electronics,3286.14,1,30,Cash on Delivery,4.1,3286.14,July,7,Monday,25-34,Standard
+1067,2024-03-25,Pokhara,Beauty,3101.2,1,17,Cash on Delivery,4.5,3101.2,March,3,Monday,16-24,Standard
+1068,2024-06-02,Pokhara,Clothing,2111.73,1,41,eSewa,4.0,2111.73,June,6,Sunday,35-44,Standard
+1069,2024-08-09,Biratnagar,Electronics,16559.8675,1,24,Khalti,5.0,16559.8675,August,8,Friday,16-24,Enterprise
+1070,2024-04-12,Kathmandu,Beauty,2595.15,2,16,Khalti,5.0,5190.3,April,4,Friday,16-24,Premium
+1071,2024-11-30,Pokhara,Clothing,2067.15,1,38,Bank Transfer,4.4,2067.15,November,11,Saturday,35-44,Standard
+1072,2024-09-29,Kathmandu,Home & Kitchen,7322.72,2,33,Khalti,4.1,14645.44,September,9,Sunday,25-34,Enterprise
+1073,2024-04-20,Kathmandu,Beauty,1073.78,1,33,eSewa,3.3,1073.78,April,4,Saturday,25-34,Budget
+1074,2024-04-02,Chitwan,Electronics,16559.8675,1,17,Cash on Delivery,4.5,16559.8675,April,4,Tuesday,16-24,Enterprise
+1075,2024-11-21,Kathmandu,Clothing,1753.66,1,17,Khalti,3.9,1753.66,November,11,Thursday,16-24,Budget
+1076,2024-10-08,Biratnagar,Books,1124.28,1,23,Cash on Delivery,4.3,1124.28,October,10,Tuesday,16-24,Budget
+1077,2024-01-08,Bhaktapur,Beauty,309.6,2,25,Khalti,3.6,619.2,January,1,Monday,25-34,Budget
+1078,2024-03-18,Pokhara,Books,861.13,2,37,Cash on Delivery,3.3,1722.26,March,3,Monday,35-44,Budget
+1079,2024-09-30,Pokhara,Books,2298.93,1,16,eSewa,4.3,2298.93,September,9,Monday,16-24,Standard
+1080,2024-09-29,Kathmandu,Beauty,974.45,1,23,Cash on Delivery,3.8,974.45,September,9,Sunday,16-24,Budget
+1081,2024-08-20,Pokhara,Home & Kitchen,7530.37,1,30,Khalti,3.4,7530.37,August,8,Tuesday,25-34,Premium
+1082,2024-04-10,Pokhara,Electronics,16559.8675,1,38,eSewa,5.0,16559.8675,April,4,Wednesday,35-44,Enterprise
+1083,2024-05-29,Kathmandu,Beauty,1522.29,3,28,Cash on Delivery,2.3,4566.87,May,5,Wednesday,25-34,Standard
+1084,2024-11-06,Biratnagar,Books,998.27,1,31,Bank Transfer,4.8,998.27,November,11,Wednesday,25-34,Budget
+1085,2024-03-02,Chitwan,Books,2930.19,1,48,eSewa,5.0,2930.19,March,3,Saturday,45-54,Standard
+1086,2024-11-19,Pokhara,Home & Kitchen,3712.1,4,16,eSewa,4.1,14848.4,November,11,Tuesday,16-24,Enterprise
+1087,2024-05-18,Chitwan,Clothing,3955.01,1,37,Khalti,2.8,3955.01,May,5,Saturday,35-44,Standard
+1088,2024-01-13,Bhaktapur,Clothing,2968.71,1,51,Cash on Delivery,3.6,2968.71,January,1,Saturday,45-54,Standard
+1089,2024-11-29,Chitwan,Electronics,16559.8675,2,36,Cash on Delivery,3.9,33119.735,November,11,Friday,35-44,Enterprise
+1090,2024-12-26,Bhaktapur,Home & Kitchen,12753.97,1,34,eSewa,4.5,12753.97,December,12,Thursday,25-34,Enterprise
+1091,2024-05-11,Kathmandu,Groceries,1696.47,1,45,Khalti,4.8,1696.47,May,5,Saturday,45-54,Budget
+1092,2024-12-18,Bhaktapur,Books,2719.07,1,16,Cash on Delivery,4.1,2719.07,December,12,Wednesday,16-24,Standard
+1093,2024-02-08,Kathmandu,Clothing,2945.99,3,30,eSewa,4.6,8837.97,February,2,Thursday,25-34,Premium
+1094,2024-08-18,Lalitpur,Home & Kitchen,12075.16,1,38,eSewa,4.7,12075.16,August,8,Sunday,35-44,Enterprise
+1095,2024-05-02,Bhaktapur,Home & Kitchen,8892.43,2,30,Khalti,3.3,17784.86,May,5,Thursday,25-34,Enterprise
+1096,2024-06-05,Lalitpur,Beauty,771.71,1,16,Cash on Delivery,3.8,771.71,June,6,Wednesday,16-24,Budget
+1097,2024-10-18,Bhaktapur,Groceries,1638.75,1,40,Bank Transfer,4.4,1638.75,October,10,Friday,35-44,Budget
+1098,2024-12-11,Chitwan,Books,836.58,1,32,Khalti,3.2,836.58,December,12,Wednesday,25-34,Budget
+1099,2024-06-19,Chitwan,Electronics,16559.8675,2,46,Bank Transfer,4.6,33119.735,June,6,Wednesday,45-54,Enterprise
+1100,2024-02-20,Bhaktapur,Clothing,3970.61,1,21,eSewa,4.0,3970.61,February,2,Tuesday,16-24,Standard
+1101,2024-01-01,Biratnagar,Books,721.7,2,52,Khalti,4.5,1443.4,January,1,Monday,45-54,Budget
+1102,2024-11-08,Kathmandu,Electronics,16559.8675,1,20,Khalti,2.8,16559.8675,November,11,Friday,16-24,Enterprise
+1103,2024-12-12,Pokhara,Groceries,2315.1,1,27,eSewa,2.9,2315.1,December,12,Thursday,25-34,Standard
+1104,2024-12-09,Kathmandu,Electronics,16559.8675,1,23,eSewa,4.8,16559.8675,December,12,Monday,16-24,Enterprise
+1105,2024-03-24,Pokhara,Clothing,3485.92,1,39,Khalti,4.2,3485.92,March,3,Sunday,35-44,Standard
+1106,2024-08-02,Pokhara,Electronics,16559.8675,1,24,Khalti,5.0,16559.8675,August,8,Friday,16-24,Enterprise
+1107,2024-01-19,Kathmandu,Electronics,4601.61,1,27,Khalti,5.0,4601.61,January,1,Friday,25-34,Standard
+1108,2024-11-14,Kathmandu,Home & Kitchen,7631.45,1,24,Cash on Delivery,3.9,7631.45,November,11,Thursday,16-24,Premium
+1109,2024-03-27,Chitwan,Clothing,1718.35,1,40,eSewa,2.4,1718.35,March,3,Wednesday,35-44,Budget
+1110,2024-09-05,Biratnagar,Groceries,1313.22,1,34,eSewa,3.3,1313.22,September,9,Thursday,25-34,Budget
+1111,2024-10-14,Biratnagar,Clothing,4123.92,5,26,Cash on Delivery,5.0,20619.6,October,10,Monday,25-34,Enterprise
+1112,2024-01-07,Lalitpur,Beauty,1803.65,1,36,eSewa,4.5,1803.65,January,1,Sunday,35-44,Budget
+1113,2024-01-02,Chitwan,Groceries,1499.3,1,16,Cash on Delivery,5.0,1499.3,January,1,Tuesday,16-24,Budget
+1114,2024-09-17,Kathmandu,Groceries,1516.71,1,24,Cash on Delivery,5.0,1516.71,September,9,Tuesday,16-24,Budget
+1115,2024-10-06,Kathmandu,Groceries,2376.29,2,32,Khalti,4.1,4752.58,October,10,Sunday,25-34,Standard
+1116,2024-01-09,Lalitpur,Electronics,16559.8675,1,17,eSewa,4.7,16559.8675,January,1,Tuesday,16-24,Enterprise
+1117,2024-01-29,Kathmandu,Groceries,1112.09,1,16,Khalti,4.5,1112.09,January,1,Monday,16-24,Budget
+1118,2024-04-26,Kathmandu,Electronics,16559.8675,2,32,Khalti,4.9,33119.735,April,4,Friday,25-34,Enterprise
+1119,2024-07-08,Pokhara,Electronics,16559.8675,1,26,Khalti,4.3,16559.8675,July,7,Monday,25-34,Enterprise
+1120,2024-01-11,Pokhara,Clothing,807.12,2,30,Khalti,4.9,1614.24,January,1,Thursday,25-34,Budget
+1121,2024-03-09,Pokhara,Clothing,2284.92,4,32,eSewa,2.7,9139.68,March,3,Saturday,25-34,Premium
+1122,2024-12-30,Kathmandu,Home & Kitchen,1530.25,1,25,eSewa,5.0,1530.25,December,12,Monday,25-34,Budget
+1123,2024-04-13,Pokhara,Electronics,16559.8675,2,36,Cash on Delivery,3.7,33119.735,April,4,Saturday,35-44,Enterprise
+1124,2024-01-12,Pokhara,Home & Kitchen,14541.33,1,18,Khalti,3.9,14541.33,January,1,Friday,16-24,Enterprise
+1125,2024-08-02,Bhaktapur,Groceries,1857.34,2,30,Bank Transfer,4.1,3714.68,August,8,Friday,25-34,Standard
+1126,2024-12-30,Lalitpur,Home & Kitchen,3941.17,5,30,Bank Transfer,3.7,19705.85,December,12,Monday,25-34,Enterprise
+1127,2024-09-26,Kathmandu,Clothing,3055.75,3,22,eSewa,4.6,9167.25,September,9,Thursday,16-24,Premium
+1128,2024-04-12,Kathmandu,Groceries,2366.24,1,17,eSewa,4.1,2366.24,April,4,Friday,16-24,Standard
+1129,2024-07-01,Pokhara,Clothing,4482.49,1,42,Khalti,4.4,4482.49,July,7,Monday,35-44,Standard
+1130,2024-01-16,Pokhara,Books,1092.51,1,28,Khalti,4.9,1092.51,January,1,Tuesday,25-34,Budget
+1131,2024-05-20,Pokhara,Clothing,595.71,2,53,eSewa,3.6,1191.42,May,5,Monday,45-54,Budget
+1132,2024-12-24,Pokhara,Electronics,16559.8675,1,16,Cash on Delivery,3.9,16559.8675,December,12,Tuesday,16-24,Enterprise
+1133,2024-07-11,Chitwan,Clothing,1551.23,1,21,Bank Transfer,3.9,1551.23,July,7,Thursday,16-24,Budget
+1134,2024-07-16,Chitwan,Beauty,3209.48,1,32,Bank Transfer,4.8,3209.48,July,7,Tuesday,25-34,Standard
+1135,2024-02-28,Pokhara,Clothing,1251.65,5,25,Cash on Delivery,4.6,6258.25,February,2,Wednesday,25-34,Premium
+1136,2024-08-05,Kathmandu,Books,845.88,1,34,eSewa,4.1,845.88,August,8,Monday,25-34,Budget
+1137,2024-03-01,Kathmandu,Electronics,16559.8675,5,16,Bank Transfer,5.0,82799.3375,March,3,Friday,16-24,Enterprise
+1138,2024-04-29,Bhaktapur,Groceries,2058.0,1,28,Khalti,5.0,2058.0,April,4,Monday,25-34,Standard
+1139,2024-08-13,Biratnagar,Groceries,410.84,2,34,Khalti,5.0,821.68,August,8,Tuesday,25-34,Budget
+1140,2024-02-07,Kathmandu,Groceries,16559.8675,1,29,eSewa,5.0,16559.8675,February,2,Wednesday,25-34,Enterprise
+1141,2024-03-21,Kathmandu,Home & Kitchen,2354.46,2,30,Bank Transfer,4.9,4708.92,March,3,Thursday,25-34,Standard
+1142,2024-12-12,Biratnagar,Groceries,934.74,1,31,Cash on Delivery,5.0,934.74,December,12,Thursday,25-34,Budget
+1143,2024-06-17,Kathmandu,Home & Kitchen,12878.26,2,32,eSewa,3.6,25756.52,June,6,Monday,25-34,Enterprise
+1144,2024-01-31,Biratnagar,Beauty,3559.22,2,26,Cash on Delivery,4.1,7118.44,January,1,Wednesday,25-34,Premium
+1145,2024-01-12,Kathmandu,Clothing,4180.85,2,37,Bank Transfer,2.9,8361.7,January,1,Friday,35-44,Premium
+1146,2024-12-09,Biratnagar,Electronics,9161.02,1,26,eSewa,3.6,9161.02,December,12,Monday,25-34,Premium
+1147,2024-02-29,Kathmandu,Electronics,16559.8675,1,36,eSewa,4.6,16559.8675,February,2,Thursday,35-44,Enterprise
+1148,2024-01-17,Bhaktapur,Home & Kitchen,1763.29,1,27,eSewa,5.0,1763.29,January,1,Wednesday,25-34,Budget
+1149,2024-06-23,Chitwan,Groceries,2145.8,5,24,Cash on Delivery,4.4,10729.0,June,6,Sunday,16-24,Enterprise
+1150,2024-03-19,Biratnagar,Beauty,381.86,1,28,Bank Transfer,3.1,381.86,March,3,Tuesday,25-34,Budget
+1151,2024-10-11,Bhaktapur,Groceries,1183.33,1,40,eSewa,5.0,1183.33,October,10,Friday,35-44,Budget
+1152,2024-01-21,Chitwan,Electronics,16559.8675,1,26,eSewa,5.0,16559.8675,January,1,Sunday,25-34,Enterprise
+1153,2024-06-11,Kathmandu,Clothing,4523.45,1,18,Cash on Delivery,5.0,4523.45,June,6,Tuesday,16-24,Standard
+1154,2024-05-24,Kathmandu,Groceries,2423.66,1,28,Khalti,3.2,2423.66,May,5,Friday,25-34,Standard
+1155,2024-01-24,Chitwan,Groceries,2012.31,1,41,Khalti,4.5,2012.31,January,1,Wednesday,35-44,Standard
+1156,2024-12-05,Pokhara,Books,1875.32,1,29,eSewa,3.0,1875.32,December,12,Thursday,25-34,Budget
+1157,2024-03-12,Kathmandu,Books,1112.59,1,27,eSewa,4.1,1112.59,March,3,Tuesday,25-34,Budget
+1158,2024-02-01,Lalitpur,Clothing,2659.72,1,32,Cash on Delivery,4.5,2659.72,February,2,Thursday,25-34,Standard
+1159,2024-06-08,Kathmandu,Electronics,16417.59,5,16,eSewa,4.0,82087.95,June,6,Saturday,16-24,Enterprise
+1160,2024-10-15,Biratnagar,Clothing,1969.08,1,17,Bank Transfer,3.2,1969.08,October,10,Tuesday,16-24,Budget
+1161,2024-04-15,Kathmandu,Clothing,3602.59,2,32,Cash on Delivery,3.5,7205.18,April,4,Monday,25-34,Premium
+1162,2024-08-10,Lalitpur,Books,1865.37,1,36,Cash on Delivery,4.4,1865.37,August,8,Saturday,35-44,Budget
+1163,2024-01-07,Lalitpur,Books,2393.58,1,49,eSewa,5.0,2393.58,January,1,Sunday,45-54,Standard
+1164,2024-01-14,Kathmandu,Groceries,197.81,1,20,Cash on Delivery,3.7,197.81,January,1,Sunday,16-24,Budget
+1165,2024-07-29,Kathmandu,Groceries,488.01,1,19,Cash on Delivery,4.6,488.01,July,7,Monday,16-24,Budget
+1166,2024-11-27,Kathmandu,Beauty,1848.08,1,29,Cash on Delivery,4.5,1848.08,November,11,Wednesday,25-34,Budget
+1167,2024-01-20,Pokhara,Beauty,1579.96,1,38,Khalti,5.0,1579.96,January,1,Saturday,35-44,Budget
+1168,2024-03-06,Lalitpur,Clothing,3763.66,1,35,Bank Transfer,5.0,3763.66,March,3,Wednesday,35-44,Standard
+1169,2024-08-24,Pokhara,Clothing,4605.64,1,25,Cash on Delivery,4.6,4605.64,August,8,Saturday,25-34,Standard
+1170,2024-01-14,Chitwan,Home & Kitchen,13708.26,1,30,Khalti,3.9,13708.26,January,1,Sunday,25-34,Enterprise
+1171,2024-01-14,Pokhara,Books,472.7,1,40,eSewa,2.7,472.7,January,1,Sunday,35-44,Budget
+1172,2024-06-11,Lalitpur,Groceries,849.16,1,39,eSewa,3.5,849.16,June,6,Tuesday,35-44,Budget
+1173,2024-01-10,Kathmandu,Beauty,1177.0,1,30,eSewa,3.1,1177.0,January,1,Wednesday,25-34,Budget
+1174,2024-09-20,Lalitpur,Books,608.12,1,22,eSewa,4.5,608.12,September,9,Friday,16-24,Budget
+1175,2024-07-22,Pokhara,Electronics,16559.8675,1,33,Khalti,4.4,16559.8675,July,7,Monday,25-34,Enterprise
+1176,2024-11-29,Kathmandu,Books,776.36,1,36,eSewa,4.1,776.36,November,11,Friday,35-44,Budget
+1177,2024-11-20,Kathmandu,Groceries,1185.28,3,45,Khalti,4.7,3555.84,November,11,Wednesday,45-54,Standard
+1178,2024-08-04,Lalitpur,Clothing,4843.03,1,28,Khalti,5.0,4843.03,August,8,Sunday,25-34,Standard
+1179,2024-05-30,Kathmandu,Clothing,2041.94,1,39,eSewa,3.3,2041.94,May,5,Thursday,35-44,Standard
+1180,2024-06-05,Pokhara,Clothing,1347.57,2,28,Cash on Delivery,4.3,2695.14,June,6,Wednesday,25-34,Standard
+1181,2024-05-24,Biratnagar,Clothing,2184.34,1,33,eSewa,4.5,2184.34,May,5,Friday,25-34,Standard
+1182,2024-05-26,Chitwan,Electronics,16559.8675,1,34,Khalti,4.9,16559.8675,May,5,Sunday,25-34,Enterprise
+1183,2024-03-03,Chitwan,Books,2041.97,5,39,Cash on Delivery,3.9,10209.85,March,3,Sunday,35-44,Enterprise
+1184,2024-04-07,Pokhara,Beauty,1368.14,1,40,Cash on Delivery,3.1,1368.14,April,4,Sunday,35-44,Budget
+1185,2024-12-30,Biratnagar,Clothing,4450.51,1,31,eSewa,3.3,4450.51,December,12,Monday,25-34,Standard
+1186,2024-11-11,Lalitpur,Electronics,16559.8675,1,39,Khalti,5.0,16559.8675,November,11,Monday,35-44,Enterprise
+1187,2024-04-19,Lalitpur,Books,404.95,1,30,Khalti,5.0,404.95,April,4,Friday,25-34,Budget
+1188,2024-06-02,Kathmandu,Clothing,2656.32,1,30,eSewa,3.2,2656.32,June,6,Sunday,25-34,Standard
+1189,2024-11-21,Bhaktapur,Home & Kitchen,9432.25,2,31,Cash on Delivery,5.0,18864.5,November,11,Thursday,25-34,Enterprise
+1190,2024-05-03,Chitwan,Groceries,118.15,1,19,eSewa,5.0,118.15,May,5,Friday,16-24,Budget
+1191,2024-02-21,Lalitpur,Beauty,1601.0,1,30,Khalti,4.7,1601.0,February,2,Wednesday,25-34,Budget
+1192,2024-03-17,Pokhara,Clothing,3246.5,2,28,Cash on Delivery,4.0,6493.0,March,3,Sunday,25-34,Premium
+1193,2024-11-07,Biratnagar,Clothing,4099.01,1,22,Cash on Delivery,4.0,4099.01,November,11,Thursday,16-24,Standard
+1194,2024-05-20,Lalitpur,Home & Kitchen,1416.46,1,30,eSewa,4.1,1416.46,May,5,Monday,25-34,Budget
+1195,2024-04-30,Biratnagar,Electronics,16559.8675,1,27,eSewa,4.7,16559.8675,April,4,Tuesday,25-34,Enterprise
+1196,2024-04-09,Pokhara,Beauty,1417.62,2,23,Khalti,4.3,2835.24,April,4,Tuesday,16-24,Standard
+1197,2024-02-18,Bhaktapur,Electronics,16559.8675,1,26,eSewa,4.5,16559.8675,February,2,Sunday,25-34,Enterprise
+1198,2024-06-08,Lalitpur,Beauty,2675.29,1,36,eSewa,3.0,2675.29,June,6,Saturday,35-44,Standard
+1199,2024-03-25,Lalitpur,Electronics,16559.8675,1,16,Cash on Delivery,2.5,16559.8675,March,3,Monday,16-24,Enterprise
+1200,2024-01-19,Lalitpur,Groceries,2479.01,1,36,Cash on Delivery,3.9,2479.01,January,1,Friday,35-44,Standard
+1201,2024-03-13,Kathmandu,Home & Kitchen,2016.35,2,24,eSewa,3.1,4032.7,March,3,Wednesday,16-24,Standard
+1202,2024-01-27,Lalitpur,Electronics,16559.8675,1,35,Cash on Delivery,2.9,16559.8675,January,1,Saturday,35-44,Enterprise
+1203,2024-11-21,Kathmandu,Home & Kitchen,5405.54,1,16,Bank Transfer,3.0,5405.54,November,11,Thursday,16-24,Premium
+1204,2024-02-05,Chitwan,Books,1133.99,1,30,eSewa,4.7,1133.99,February,2,Monday,25-34,Budget
+1205,2024-01-12,Kathmandu,Clothing,935.04,1,39,Bank Transfer,4.6,935.04,January,1,Friday,35-44,Budget
+1206,2024-04-27,Chitwan,Beauty,743.37,4,30,Cash on Delivery,4.7,2973.48,April,4,Saturday,25-34,Standard
+1207,2024-08-18,Biratnagar,Beauty,643.84,1,31,eSewa,5.0,643.84,August,8,Sunday,25-34,Budget
+1208,2024-04-23,Kathmandu,Beauty,433.79,1,16,eSewa,3.1,433.79,April,4,Tuesday,16-24,Budget
+1209,2024-06-02,Lalitpur,Electronics,16559.8675,1,37,Khalti,4.1,16559.8675,June,6,Sunday,35-44,Enterprise
+1210,2024-01-12,Chitwan,Books,1786.41,1,30,Khalti,4.0,1786.41,January,1,Friday,25-34,Budget
+1211,2024-12-01,Kathmandu,Clothing,4406.26,2,25,eSewa,4.9,8812.52,December,12,Sunday,25-34,Premium
+1212,2024-10-02,Lalitpur,Groceries,1767.88,1,31,Khalti,4.7,1767.88,October,10,Wednesday,25-34,Budget
+1213,2024-04-19,Biratnagar,Electronics,16559.8675,1,25,Bank Transfer,4.8,16559.8675,April,4,Friday,25-34,Enterprise
+1214,2024-01-25,Kathmandu,Books,609.85,1,32,Bank Transfer,3.3,609.85,January,1,Thursday,25-34,Budget
+1215,2024-06-08,Kathmandu,Home & Kitchen,7041.07,1,43,eSewa,5.0,7041.07,June,6,Saturday,35-44,Premium
+1216,2024-12-10,Kathmandu,Groceries,1454.66,1,24,eSewa,3.8,1454.66,December,12,Tuesday,16-24,Budget
+1217,2024-09-08,Lalitpur,Books,943.08,1,18,eSewa,4.1,943.08,September,9,Sunday,16-24,Budget
+1218,2024-05-03,Biratnagar,Home & Kitchen,5148.8,1,37,Khalti,4.6,5148.8,May,5,Friday,35-44,Premium
+1219,2024-01-14,Kathmandu,Beauty,1610.67,1,33,eSewa,4.0,1610.67,January,1,Sunday,25-34,Budget
+1220,2024-03-19,Lalitpur,Books,1547.76,1,21,Khalti,4.6,1547.76,March,3,Tuesday,16-24,Budget
+1221,2024-07-31,Kathmandu,Beauty,344.85,1,17,Khalti,3.5,344.85,July,7,Wednesday,16-24,Budget
+1222,2024-10-08,Kathmandu,Beauty,3424.12,1,26,Cash on Delivery,4.5,3424.12,October,10,Tuesday,25-34,Standard
+1223,2024-02-11,Biratnagar,Groceries,1002.13,1,23,Cash on Delivery,4.9,1002.13,February,2,Sunday,16-24,Budget
+1224,2024-08-29,Kathmandu,Home & Kitchen,1885.12,1,29,Khalti,4.8,1885.12,August,8,Thursday,25-34,Budget
+1225,2024-03-19,Biratnagar,Clothing,2238.57,1,39,eSewa,4.0,2238.57,March,3,Tuesday,35-44,Standard
+1226,2024-11-28,Kathmandu,Home & Kitchen,8073.55,1,37,Cash on Delivery,5.0,8073.55,November,11,Thursday,35-44,Premium
+1227,2024-10-03,Pokhara,Groceries,129.06,4,32,Bank Transfer,4.1,516.24,October,10,Thursday,25-34,Budget
+1228,2024-09-17,Lalitpur,Groceries,1687.29,1,30,Khalti,4.0,1687.29,September,9,Tuesday,25-34,Budget
+1229,2024-11-24,Pokhara,Electronics,16559.8675,2,27,Khalti,3.9,33119.735,November,11,Sunday,25-34,Enterprise
+1230,2024-04-28,Kathmandu,Books,393.91,4,43,Cash on Delivery,5.0,1575.64,April,4,Sunday,35-44,Budget
+1231,2024-09-29,Chitwan,Home & Kitchen,3024.27,1,24,Khalti,3.1,3024.27,September,9,Sunday,16-24,Standard
+1232,2024-07-31,Lalitpur,Home & Kitchen,6318.87,1,27,Bank Transfer,4.1,6318.87,July,7,Wednesday,25-34,Premium
+1233,2024-09-24,Chitwan,Clothing,4171.76,2,37,Khalti,3.4,8343.52,September,9,Tuesday,35-44,Premium
+1234,2024-08-23,Kathmandu,Books,2239.77,2,40,eSewa,3.5,4479.54,August,8,Friday,35-44,Standard
+1235,2024-01-29,Bhaktapur,Home & Kitchen,1413.07,1,19,eSewa,4.1,1413.07,January,1,Monday,16-24,Budget
+1236,2024-07-02,Lalitpur,Books,1718.26,1,31,Cash on Delivery,3.4,1718.26,July,7,Tuesday,25-34,Budget
+1237,2024-05-23,Biratnagar,Beauty,892.27,1,34,eSewa,4.4,892.27,May,5,Thursday,25-34,Budget
+1238,2024-01-10,Bhaktapur,Groceries,1063.59,2,33,Cash on Delivery,5.0,2127.18,January,1,Wednesday,25-34,Standard
+1239,2024-08-21,Bhaktapur,Beauty,2293.17,1,16,eSewa,3.2,2293.17,August,8,Wednesday,16-24,Standard
+1240,2024-05-11,Pokhara,Books,2654.62,5,40,eSewa,4.6,13273.099999999999,May,5,Saturday,35-44,Enterprise
+1241,2024-12-24,Kathmandu,Clothing,2261.87,1,16,Cash on Delivery,5.0,2261.87,December,12,Tuesday,16-24,Standard
+1242,2024-08-08,Lalitpur,Home & Kitchen,6513.05,2,31,Khalti,3.5,13026.1,August,8,Thursday,25-34,Enterprise
+1243,2024-06-06,Biratnagar,Home & Kitchen,1549.82,1,37,Khalti,3.7,1549.82,June,6,Thursday,35-44,Budget
+1244,2024-03-16,Biratnagar,Books,617.2,1,38,Khalti,4.6,617.2,March,3,Saturday,35-44,Budget
+1245,2024-07-01,Kathmandu,Beauty,845.57,1,24,Cash on Delivery,4.0,845.57,July,7,Monday,16-24,Budget
+1246,2024-06-09,Pokhara,Groceries,1860.68,1,40,eSewa,4.1,1860.68,June,6,Sunday,35-44,Budget
+1247,2024-12-24,Lalitpur,Books,2975.15,2,18,Khalti,4.4,5950.3,December,12,Tuesday,16-24,Premium
+1248,2024-12-15,Biratnagar,Clothing,1243.82,2,31,eSewa,2.7,2487.64,December,12,Sunday,25-34,Standard
+1249,2024-03-09,Biratnagar,Beauty,507.7,2,34,Khalti,3.7,1015.4,March,3,Saturday,25-34,Budget
+1250,2024-05-05,Bhaktapur,Beauty,2912.27,1,16,Cash on Delivery,4.0,2912.27,May,5,Sunday,16-24,Standard
+1251,2024-12-29,Kathmandu,Books,360.38,1,36,Bank Transfer,5.0,360.38,December,12,Sunday,35-44,Budget
+1252,2024-12-07,Kathmandu,Books,991.69,1,33,eSewa,3.9,991.69,December,12,Saturday,25-34,Budget
+1253,2024-03-10,Kathmandu,Books,1400.88,2,25,eSewa,4.1,2801.76,March,3,Sunday,25-34,Standard
+1254,2024-06-26,Pokhara,Clothing,3028.97,1,36,eSewa,3.9,3028.97,June,6,Wednesday,35-44,Standard
+1255,2024-07-17,Pokhara,Groceries,2412.15,1,34,Khalti,4.5,2412.15,July,7,Wednesday,25-34,Standard
+1256,2024-05-10,Bhaktapur,Beauty,3930.8,1,30,eSewa,3.2,3930.8,May,5,Friday,25-34,Standard
+1257,2024-06-09,Kathmandu,Beauty,2551.55,1,23,Cash on Delivery,3.5,2551.55,June,6,Sunday,16-24,Standard
+1258,2024-12-19,Pokhara,Electronics,16559.8675,1,42,Khalti,4.3,16559.8675,December,12,Thursday,35-44,Enterprise
+1259,2024-03-05,Pokhara,Clothing,867.76,1,33,eSewa,3.4,867.76,March,3,Tuesday,25-34,Budget
+1260,2024-05-04,Bhaktapur,Clothing,2580.33,1,38,eSewa,3.5,2580.33,May,5,Saturday,35-44,Standard
+1261,2024-11-14,Pokhara,Groceries,1202.18,1,37,Khalti,4.1,1202.18,November,11,Thursday,35-44,Budget
+1262,2024-08-19,Biratnagar,Home & Kitchen,11545.87,1,27,Bank Transfer,2.8,11545.87,August,8,Monday,25-34,Enterprise
+1263,2024-09-04,Pokhara,Clothing,3010.91,1,30,Khalti,4.8,3010.91,September,9,Wednesday,25-34,Standard
+1264,2024-06-26,Kathmandu,Books,1241.41,1,17,eSewa,3.9,1241.41,June,6,Wednesday,16-24,Budget
+1265,2024-03-25,Kathmandu,Home & Kitchen,12058.53,1,19,Cash on Delivery,4.5,12058.53,March,3,Monday,16-24,Enterprise
+1266,2024-09-24,Kathmandu,Clothing,1210.8,1,30,Cash on Delivery,5.0,1210.8,September,9,Tuesday,25-34,Budget
+1267,2024-05-08,Kathmandu,Groceries,2460.45,1,42,Cash on Delivery,3.5,2460.45,May,5,Wednesday,35-44,Standard
+1268,2024-09-02,Biratnagar,Beauty,1929.2,1,30,eSewa,3.7,1929.2,September,9,Monday,25-34,Budget
+1269,2024-01-21,Bhaktapur,Electronics,16559.8675,5,33,eSewa,3.5,82799.3375,January,1,Sunday,25-34,Enterprise
+1270,2024-05-12,Chitwan,Home & Kitchen,11014.82,2,18,Bank Transfer,3.3,22029.64,May,5,Sunday,16-24,Enterprise
+1271,2024-12-29,Pokhara,Books,2188.68,1,29,eSewa,2.3,2188.68,December,12,Sunday,25-34,Standard
+1272,2024-06-04,Biratnagar,Home & Kitchen,8261.18,1,27,eSewa,3.8,8261.18,June,6,Tuesday,25-34,Premium
+1273,2024-03-15,Lalitpur,Electronics,16559.8675,1,16,Cash on Delivery,5.0,16559.8675,March,3,Friday,16-24,Enterprise
+1274,2024-10-15,Kathmandu,Groceries,2124.97,1,19,Cash on Delivery,5.0,2124.97,October,10,Tuesday,16-24,Standard
+1275,2024-05-27,Kathmandu,Home & Kitchen,10479.71,1,25,Khalti,4.7,10479.71,May,5,Monday,25-34,Enterprise
+1276,2024-05-22,Kathmandu,Home & Kitchen,13102.69,1,34,Cash on Delivery,4.2,13102.69,May,5,Wednesday,25-34,Enterprise
+1277,2024-07-28,Lalitpur,Electronics,16559.8675,1,26,Khalti,3.2,16559.8675,July,7,Sunday,25-34,Enterprise
+1278,2024-02-04,Pokhara,Books,2620.78,1,29,eSewa,5.0,2620.78,February,2,Sunday,25-34,Standard
+1279,2024-03-23,Chitwan,Books,2770.61,1,34,Cash on Delivery,4.8,2770.61,March,3,Saturday,25-34,Standard
+1280,2024-09-07,Lalitpur,Beauty,3862.4,2,49,Khalti,4.5,7724.8,September,9,Saturday,45-54,Premium
+1281,2024-10-12,Kathmandu,Books,536.69,1,16,Cash on Delivery,4.5,536.69,October,10,Saturday,16-24,Budget
+1282,2024-08-09,Lalitpur,Beauty,1399.78,1,26,eSewa,4.7,1399.78,August,8,Friday,25-34,Budget
+1283,2024-09-24,Lalitpur,Beauty,3401.16,1,30,Cash on Delivery,4.1,3401.16,September,9,Tuesday,25-34,Standard
+1284,2024-07-19,Chitwan,Groceries,1272.1,2,38,Cash on Delivery,4.5,2544.2,July,7,Friday,35-44,Standard
+1285,2024-11-27,Chitwan,Electronics,3945.66,1,19,eSewa,4.0,3945.66,November,11,Wednesday,16-24,Standard
+1286,2024-11-02,Pokhara,Home & Kitchen,7096.0,1,35,Cash on Delivery,5.0,7096.0,November,11,Saturday,35-44,Premium
+1287,2024-03-07,Lalitpur,Home & Kitchen,2279.99,1,31,Cash on Delivery,4.5,2279.99,March,3,Thursday,25-34,Standard
+1288,2024-08-01,Kathmandu,Electronics,16559.8675,1,26,eSewa,2.3,16559.8675,August,8,Thursday,25-34,Enterprise
+1289,2024-04-02,Pokhara,Groceries,764.35,4,24,Khalti,5.0,3057.4,April,4,Tuesday,16-24,Standard
+1290,2024-02-18,Kathmandu,Home & Kitchen,3739.29,1,27,Cash on Delivery,3.5,3739.29,February,2,Sunday,25-34,Standard
+1291,2024-11-05,Chitwan,Electronics,15064.32,1,22,Khalti,3.9,15064.32,November,11,Tuesday,16-24,Enterprise
+1292,2024-02-10,Kathmandu,Beauty,1577.33,1,27,Khalti,4.1,1577.33,February,2,Saturday,25-34,Budget
+1293,2024-01-19,Pokhara,Books,662.57,1,32,Khalti,4.5,662.57,January,1,Friday,25-34,Budget
+1294,2024-09-06,Bhaktapur,Electronics,16559.8675,4,37,eSewa,4.5,66239.47,September,9,Friday,35-44,Enterprise
+1295,2024-06-09,Pokhara,Home & Kitchen,10549.58,1,22,Khalti,3.9,10549.58,June,6,Sunday,16-24,Enterprise
+1296,2024-08-30,Pokhara,Home & Kitchen,13584.56,1,31,Cash on Delivery,4.5,13584.56,August,8,Friday,25-34,Enterprise
+1297,2024-07-28,Kathmandu,Clothing,4496.18,1,34,Cash on Delivery,3.2,4496.18,July,7,Sunday,25-34,Standard
+1298,2024-10-22,Biratnagar,Beauty,545.84,1,30,Khalti,5.0,545.84,October,10,Tuesday,25-34,Budget
+1299,2024-03-02,Lalitpur,Beauty,1777.66,3,41,Cash on Delivery,3.4,5332.9800000000005,March,3,Saturday,35-44,Premium
+1300,2024-04-08,Kathmandu,Home & Kitchen,6300.97,2,40,Khalti,4.2,12601.94,April,4,Monday,35-44,Enterprise
+1301,2024-06-04,Lalitpur,Home & Kitchen,12137.0,2,26,Cash on Delivery,4.3,24274.0,June,6,Tuesday,25-34,Enterprise
+1302,2024-06-15,Pokhara,Clothing,2165.24,1,34,eSewa,3.3,2165.24,June,6,Saturday,25-34,Standard
+1303,2024-06-05,Pokhara,Electronics,16559.8675,1,41,Khalti,3.7,16559.8675,June,6,Wednesday,35-44,Enterprise
+1304,2024-06-24,Kathmandu,Electronics,16559.8675,1,29,Cash on Delivery,4.1,16559.8675,June,6,Monday,25-34,Enterprise
+1305,2024-12-09,Pokhara,Beauty,3896.49,1,29,eSewa,4.4,3896.49,December,12,Monday,25-34,Standard
+1306,2024-02-20,Kathmandu,Books,2791.78,1,27,eSewa,5.0,2791.78,February,2,Tuesday,25-34,Standard
+1307,2024-05-03,Kathmandu,Beauty,3391.28,1,32,Cash on Delivery,4.8,3391.28,May,5,Friday,25-34,Standard
+1308,2024-05-05,Pokhara,Electronics,7571.6,1,16,Khalti,3.2,7571.6,May,5,Sunday,16-24,Premium
+1309,2024-12-30,Bhaktapur,Beauty,2068.15,1,28,eSewa,5.0,2068.15,December,12,Monday,25-34,Standard
+1310,2024-01-21,Chitwan,Beauty,1020.11,1,16,eSewa,4.7,1020.11,January,1,Sunday,16-24,Budget
+1311,2024-05-18,Kathmandu,Beauty,1942.96,1,36,eSewa,4.8,1942.96,May,5,Saturday,35-44,Budget
+1312,2024-06-13,Bhaktapur,Books,1794.26,1,30,Cash on Delivery,4.0,1794.26,June,6,Thursday,25-34,Budget
+1313,2024-04-26,Lalitpur,Books,837.7,4,24,eSewa,2.4,3350.8,April,4,Friday,16-24,Standard
+1314,2024-07-02,Kathmandu,Books,2413.43,1,28,Bank Transfer,3.2,2413.43,July,7,Tuesday,25-34,Standard
+1315,2024-07-01,Pokhara,Home & Kitchen,11515.62,1,21,Cash on Delivery,3.6,11515.62,July,7,Monday,16-24,Enterprise
+1316,2024-08-29,Bhaktapur,Groceries,1327.06,1,29,Khalti,4.9,1327.06,August,8,Thursday,25-34,Budget
+1317,2024-11-24,Kathmandu,Home & Kitchen,16559.8675,1,20,eSewa,3.5,16559.8675,November,11,Sunday,16-24,Enterprise
+1318,2024-07-07,Chitwan,Groceries,1175.97,1,29,Cash on Delivery,3.8,1175.97,July,7,Sunday,25-34,Budget
+1319,2024-11-15,Kathmandu,Groceries,2192.92,1,40,eSewa,3.7,2192.92,November,11,Friday,35-44,Standard
+1320,2024-01-19,Kathmandu,Books,2880.85,1,40,eSewa,2.9,2880.85,January,1,Friday,35-44,Standard
+1321,2024-05-07,Biratnagar,Beauty,3087.68,2,33,eSewa,4.6,6175.36,May,5,Tuesday,25-34,Premium
+1322,2024-09-16,Pokhara,Electronics,16559.8675,1,28,eSewa,3.7,16559.8675,September,9,Monday,25-34,Enterprise
+1323,2024-02-14,Chitwan,Home & Kitchen,8993.98,1,16,eSewa,4.3,8993.98,February,2,Wednesday,16-24,Premium
+1324,2024-07-06,Kathmandu,Clothing,4075.32,2,38,eSewa,5.0,8150.64,July,7,Saturday,35-44,Premium
+1325,2024-04-29,Pokhara,Clothing,1764.52,2,27,Khalti,4.6,3529.04,April,4,Monday,25-34,Standard
+1326,2024-09-25,Lalitpur,Electronics,16559.8675,1,42,eSewa,3.1,16559.8675,September,9,Wednesday,35-44,Enterprise
+1327,2024-03-14,Lalitpur,Electronics,16559.8675,2,24,Cash on Delivery,4.3,33119.735,March,3,Thursday,16-24,Enterprise
+1328,2024-02-22,Biratnagar,Books,1496.88,1,39,eSewa,5.0,1496.88,February,2,Thursday,35-44,Budget
+1329,2024-10-16,Kathmandu,Clothing,2306.51,1,25,Cash on Delivery,4.2,2306.51,October,10,Wednesday,25-34,Standard
+1330,2024-06-02,Bhaktapur,Electronics,2507.74,1,37,Khalti,4.3,2507.74,June,6,Sunday,35-44,Standard
+1331,2024-11-15,Kathmandu,Electronics,16559.8675,3,27,eSewa,3.5,49679.6025,November,11,Friday,25-34,Enterprise
+1332,2024-12-03,Biratnagar,Groceries,2179.72,1,37,Khalti,4.0,2179.72,December,12,Tuesday,35-44,Standard
+1333,2024-08-05,Lalitpur,Home & Kitchen,10386.99,1,22,eSewa,4.4,10386.99,August,8,Monday,16-24,Enterprise
+1334,2024-12-29,Kathmandu,Groceries,1699.32,4,33,eSewa,4.2,6797.28,December,12,Sunday,25-34,Premium
+1335,2024-10-24,Kathmandu,Home & Kitchen,11901.9,1,16,Cash on Delivery,4.1,11901.9,October,10,Thursday,16-24,Enterprise
+1336,2024-08-14,Pokhara,Groceries,1198.48,1,41,Cash on Delivery,3.8,1198.48,August,8,Wednesday,35-44,Budget
+1337,2024-04-09,Lalitpur,Electronics,16559.8675,1,16,eSewa,4.8,16559.8675,April,4,Tuesday,16-24,Enterprise
+1338,2024-05-28,Bhaktapur,Home & Kitchen,11288.08,1,52,eSewa,4.1,11288.08,May,5,Tuesday,45-54,Enterprise
+1339,2024-04-27,Biratnagar,Groceries,982.69,1,21,Cash on Delivery,4.2,982.69,April,4,Saturday,16-24,Budget
+1340,2024-12-02,Kathmandu,Beauty,1702.65,1,28,Khalti,2.0,1702.65,December,12,Monday,25-34,Budget
+1341,2024-01-29,Pokhara,Electronics,16559.8675,1,30,Cash on Delivery,4.5,16559.8675,January,1,Monday,25-34,Enterprise
+1342,2024-04-13,Kathmandu,Home & Kitchen,7259.85,1,32,eSewa,5.0,7259.85,April,4,Saturday,25-34,Premium
+1343,2024-08-11,Kathmandu,Books,1229.65,1,30,eSewa,5.0,1229.65,August,8,Sunday,25-34,Budget
+1344,2024-05-14,Biratnagar,Books,1797.82,1,34,Cash on Delivery,5.0,1797.82,May,5,Tuesday,25-34,Budget
+1345,2024-02-28,Kathmandu,Electronics,16559.8675,1,29,eSewa,2.8,16559.8675,February,2,Wednesday,25-34,Enterprise
+1346,2024-04-28,Biratnagar,Home & Kitchen,1621.39,4,30,Bank Transfer,4.1,6485.56,April,4,Sunday,25-34,Premium
+1347,2024-03-30,Kathmandu,Home & Kitchen,11832.38,1,33,Cash on Delivery,3.3,11832.38,March,3,Saturday,25-34,Enterprise
+1348,2024-12-25,Chitwan,Beauty,1322.08,5,33,Cash on Delivery,3.3,6610.4,December,12,Wednesday,25-34,Premium
+1349,2024-02-26,Biratnagar,Home & Kitchen,5590.23,2,27,eSewa,4.2,11180.46,February,2,Monday,25-34,Enterprise
+1350,2024-09-04,Kathmandu,Beauty,2140.06,1,30,eSewa,4.6,2140.06,September,9,Wednesday,25-34,Standard
+1351,2024-10-20,Chitwan,Beauty,3811.56,4,30,eSewa,5.0,15246.24,October,10,Sunday,25-34,Enterprise
+1352,2024-01-08,Kathmandu,Books,1770.45,2,26,Bank Transfer,4.6,3540.9,January,1,Monday,25-34,Standard
+1353,2024-11-15,Chitwan,Home & Kitchen,16559.8675,5,16,Khalti,4.2,82799.3375,November,11,Friday,16-24,Enterprise
+1354,2024-06-02,Kathmandu,Clothing,3171.02,1,30,Khalti,4.7,3171.02,June,6,Sunday,25-34,Standard
+1355,2024-09-03,Pokhara,Electronics,16559.8675,1,33,eSewa,4.5,16559.8675,September,9,Tuesday,25-34,Enterprise
+1356,2024-07-05,Chitwan,Books,1993.72,1,35,Khalti,4.4,1993.72,July,7,Friday,35-44,Budget
+1357,2024-06-04,Kathmandu,Beauty,333.44,1,18,eSewa,4.1,333.44,June,6,Tuesday,16-24,Budget
+1358,2024-10-04,Pokhara,Clothing,16559.8675,2,29,Cash on Delivery,3.7,33119.735,October,10,Friday,25-34,Enterprise
+1359,2024-09-03,Chitwan,Clothing,4556.22,1,24,Khalti,5.0,4556.22,September,9,Tuesday,16-24,Standard
+1360,2024-12-24,Lalitpur,Beauty,420.69,1,40,eSewa,3.6,420.69,December,12,Tuesday,35-44,Budget
+1361,2024-04-23,Chitwan,Home & Kitchen,8948.55,1,22,Bank Transfer,4.7,8948.55,April,4,Tuesday,16-24,Premium
+1362,2024-08-08,Pokhara,Books,2626.96,1,34,Khalti,5.0,2626.96,August,8,Thursday,25-34,Standard
+1363,2024-07-06,Pokhara,Home & Kitchen,11574.62,1,42,Cash on Delivery,3.7,11574.62,July,7,Saturday,35-44,Enterprise
+1364,2024-08-08,Kathmandu,Home & Kitchen,7865.07,1,36,eSewa,2.8,7865.07,August,8,Thursday,35-44,Premium
+1365,2024-09-27,Biratnagar,Books,399.24,1,21,Cash on Delivery,4.0,399.24,September,9,Friday,16-24,Budget
+1366,2024-01-24,Lalitpur,Beauty,2988.97,2,16,Khalti,4.4,5977.94,January,1,Wednesday,16-24,Premium
+1367,2024-06-17,Kathmandu,Beauty,1749.75,1,36,eSewa,2.1,1749.75,June,6,Monday,35-44,Budget
+1368,2024-03-25,Kathmandu,Clothing,1402.52,1,36,Cash on Delivery,3.2,1402.52,March,3,Monday,35-44,Budget
+1369,2024-01-30,Kathmandu,Beauty,3108.56,1,37,eSewa,4.6,3108.56,January,1,Tuesday,35-44,Standard
+1370,2024-08-15,Chitwan,Books,1143.5,5,24,Khalti,5.0,5717.5,August,8,Thursday,16-24,Premium
+1371,2024-07-20,Kathmandu,Electronics,16559.8675,1,31,eSewa,2.7,16559.8675,July,7,Saturday,25-34,Enterprise
+1372,2024-02-17,Kathmandu,Clothing,2668.4,1,38,eSewa,4.7,2668.4,February,2,Saturday,35-44,Standard
+1373,2024-03-21,Chitwan,Electronics,16559.8675,1,34,Cash on Delivery,4.8,16559.8675,March,3,Thursday,25-34,Enterprise
+1374,2024-06-15,Biratnagar,Groceries,2028.44,1,28,eSewa,4.0,2028.44,June,6,Saturday,25-34,Standard
+1375,2024-11-03,Kathmandu,Electronics,16559.8675,1,32,Cash on Delivery,3.7,16559.8675,November,11,Sunday,25-34,Enterprise
+1376,2024-09-27,Pokhara,Beauty,3804.24,1,37,eSewa,3.9,3804.24,September,9,Friday,35-44,Standard
+1377,2024-11-09,Lalitpur,Groceries,2113.59,1,30,Cash on Delivery,5.0,2113.59,November,11,Saturday,25-34,Standard
+1378,2024-07-11,Kathmandu,Electronics,16559.8675,1,20,Bank Transfer,4.1,16559.8675,July,7,Thursday,16-24,Enterprise
+1379,2024-02-12,Biratnagar,Books,1747.58,1,25,eSewa,3.4,1747.58,February,2,Monday,25-34,Budget
+1380,2024-01-07,Kathmandu,Books,2083.57,2,30,eSewa,4.2,4167.14,January,1,Sunday,25-34,Standard
+1381,2024-02-22,Kathmandu,Home & Kitchen,3454.19,1,41,eSewa,2.9,3454.19,February,2,Thursday,35-44,Standard
+1382,2024-02-28,Pokhara,Electronics,16559.8675,1,27,Cash on Delivery,3.6,16559.8675,February,2,Wednesday,25-34,Enterprise
+1383,2024-10-15,Lalitpur,Groceries,235.81,1,40,eSewa,5.0,235.81,October,10,Tuesday,35-44,Budget
+1384,2024-01-29,Kathmandu,Groceries,1984.65,1,29,Bank Transfer,3.9,1984.65,January,1,Monday,25-34,Budget
+1385,2024-11-13,Lalitpur,Clothing,4868.04,1,33,eSewa,3.1,4868.04,November,11,Wednesday,25-34,Standard
+1386,2024-09-22,Pokhara,Electronics,16559.8675,1,36,Khalti,5.0,16559.8675,September,9,Sunday,35-44,Enterprise
+1387,2024-10-21,Kathmandu,Books,2911.9,1,45,Khalti,3.6,2911.9,October,10,Monday,45-54,Standard
+1388,2024-10-16,Bhaktapur,Groceries,1656.41,1,39,Khalti,2.5,1656.41,October,10,Wednesday,35-44,Budget
+1389,2024-09-14,Biratnagar,Books,1076.14,1,34,eSewa,4.4,1076.14,September,9,Saturday,25-34,Budget
+1390,2024-10-10,Lalitpur,Books,1950.57,1,35,Khalti,4.0,1950.57,October,10,Thursday,35-44,Budget
+1391,2024-08-24,Lalitpur,Groceries,2398.19,1,22,Cash on Delivery,4.7,2398.19,August,8,Saturday,16-24,Standard
+1392,2024-08-31,Bhaktapur,Clothing,537.44,1,28,eSewa,4.8,537.44,August,8,Saturday,25-34,Budget
+1393,2024-09-04,Kathmandu,Beauty,2197.09,1,47,Cash on Delivery,4.5,2197.09,September,9,Wednesday,45-54,Standard
+1394,2024-05-30,Kathmandu,Beauty,638.15,1,21,eSewa,2.6,638.15,May,5,Thursday,16-24,Budget
+1395,2024-10-30,Kathmandu,Electronics,16559.8675,1,27,Khalti,4.8,16559.8675,October,10,Wednesday,25-34,Enterprise
+1396,2024-12-23,Bhaktapur,Beauty,3211.05,1,31,eSewa,5.0,3211.05,December,12,Monday,25-34,Standard
+1397,2024-04-16,Lalitpur,Clothing,2423.73,1,22,Cash on Delivery,3.0,2423.73,April,4,Tuesday,16-24,Standard
+1398,2024-09-14,Lalitpur,Electronics,4512.96,2,37,Khalti,3.3,9025.92,September,9,Saturday,35-44,Premium
+1399,2024-11-30,Kathmandu,Home & Kitchen,8397.36,1,25,Khalti,4.8,8397.36,November,11,Saturday,25-34,Premium
+1400,2024-05-14,Kathmandu,Electronics,14063.18,1,37,eSewa,4.1,14063.18,May,5,Tuesday,35-44,Enterprise
+1401,2024-04-11,Kathmandu,Groceries,1083.21,1,34,Cash on Delivery,3.3,1083.21,April,4,Thursday,25-34,Budget
+1402,2024-03-09,Kathmandu,Beauty,3358.01,1,29,Khalti,4.7,3358.01,March,3,Saturday,25-34,Standard
+1403,2024-02-21,Biratnagar,Electronics,16559.8675,1,25,Cash on Delivery,4.6,16559.8675,February,2,Wednesday,25-34,Enterprise
+1404,2024-12-27,Kathmandu,Beauty,1508.95,1,23,Bank Transfer,3.2,1508.95,December,12,Friday,16-24,Budget
+1405,2024-05-29,Pokhara,Books,1749.44,1,32,eSewa,4.3,1749.44,May,5,Wednesday,25-34,Budget
+1406,2024-10-11,Pokhara,Groceries,1094.84,1,44,Khalti,3.6,1094.84,October,10,Friday,35-44,Budget
+1407,2024-05-13,Biratnagar,Beauty,911.55,1,33,eSewa,2.6,911.55,May,5,Monday,25-34,Budget
+1408,2024-05-01,Pokhara,Books,664.09,2,28,Khalti,3.9,1328.18,May,5,Wednesday,25-34,Budget
+1409,2024-02-16,Pokhara,Home & Kitchen,5216.24,1,23,Bank Transfer,3.5,5216.24,February,2,Friday,16-24,Premium
+1410,2024-01-19,Lalitpur,Groceries,1436.51,1,43,eSewa,3.7,1436.51,January,1,Friday,35-44,Budget
+1411,2024-04-02,Lalitpur,Clothing,2353.81,2,32,eSewa,3.4,4707.62,April,4,Tuesday,25-34,Standard
+1412,2024-01-17,Kathmandu,Beauty,1924.65,5,37,eSewa,3.9,9623.25,January,1,Wednesday,35-44,Premium
+1413,2024-03-02,Biratnagar,Electronics,16559.8675,2,29,Khalti,3.5,33119.735,March,3,Saturday,25-34,Enterprise
+1414,2024-05-23,Kathmandu,Beauty,1121.03,2,32,Cash on Delivery,5.0,2242.06,May,5,Thursday,25-34,Standard
+1415,2024-12-29,Kathmandu,Electronics,16559.8675,1,27,eSewa,5.0,16559.8675,December,12,Sunday,25-34,Enterprise
+1416,2024-05-18,Kathmandu,Clothing,2320.56,1,41,Bank Transfer,3.7,2320.56,May,5,Saturday,35-44,Standard
+1417,2024-07-22,Kathmandu,Clothing,801.38,2,30,Khalti,4.5,1602.76,July,7,Monday,25-34,Budget
+1418,2024-02-14,Chitwan,Electronics,6761.06,1,29,eSewa,3.6,6761.06,February,2,Wednesday,25-34,Premium
+1419,2024-03-02,Pokhara,Books,1243.09,1,25,eSewa,4.0,1243.09,March,3,Saturday,25-34,Budget
+1420,2024-09-12,Pokhara,Groceries,1010.14,2,32,eSewa,5.0,2020.28,September,9,Thursday,25-34,Standard
+1421,2024-11-13,Biratnagar,Electronics,16559.8675,2,19,Cash on Delivery,4.1,33119.735,November,11,Wednesday,16-24,Enterprise
+1422,2024-09-21,Kathmandu,Home & Kitchen,11340.0,1,20,eSewa,3.8,11340.0,September,9,Saturday,16-24,Enterprise
+1423,2024-09-01,Lalitpur,Groceries,1139.59,2,29,Cash on Delivery,3.1,2279.18,September,9,Sunday,25-34,Standard
+1424,2024-11-08,Kathmandu,Books,1281.39,1,30,Bank Transfer,3.0,1281.39,November,11,Friday,25-34,Budget
+1425,2024-08-05,Bhaktapur,Home & Kitchen,11389.7,1,40,Cash on Delivery,3.8,11389.7,August,8,Monday,35-44,Enterprise
+1426,2024-08-26,Lalitpur,Electronics,16559.8675,1,22,Khalti,4.7,16559.8675,August,8,Monday,16-24,Enterprise
+1427,2024-12-21,Biratnagar,Home & Kitchen,7376.23,1,28,Bank Transfer,5.0,7376.23,December,12,Saturday,25-34,Premium
+1428,2024-06-09,Pokhara,Home & Kitchen,11786.01,2,33,eSewa,2.8,23572.02,June,6,Sunday,25-34,Enterprise
+1429,2024-12-31,Biratnagar,Clothing,4026.98,1,36,eSewa,3.9,4026.98,December,12,Tuesday,35-44,Standard
+1430,2024-06-30,Bhaktapur,Books,464.12,2,35,eSewa,4.9,928.24,June,6,Sunday,35-44,Budget
+1431,2024-09-09,Kathmandu,Groceries,679.59,1,27,eSewa,4.1,679.59,September,9,Monday,25-34,Budget
+1432,2024-06-14,Kathmandu,Home & Kitchen,10091.66,1,32,eSewa,4.5,10091.66,June,6,Friday,25-34,Enterprise
+1433,2024-07-15,Biratnagar,Groceries,112.83,3,44,Bank Transfer,4.1,338.49,July,7,Monday,35-44,Budget
+1434,2024-06-01,Kathmandu,Groceries,1161.51,2,36,Bank Transfer,4.2,2323.02,June,6,Saturday,35-44,Standard
+1435,2024-02-20,Pokhara,Home & Kitchen,8293.02,1,40,Khalti,4.1,8293.02,February,2,Tuesday,35-44,Premium
+1436,2024-07-07,Lalitpur,Books,1860.84,1,20,Bank Transfer,5.0,1860.84,July,7,Sunday,16-24,Budget
+1437,2024-02-28,Bhaktapur,Beauty,2637.08,1,18,eSewa,4.8,2637.08,February,2,Wednesday,16-24,Standard
+1438,2024-08-01,Lalitpur,Home & Kitchen,6676.35,1,35,eSewa,4.0,6676.35,August,8,Thursday,35-44,Premium
+1439,2024-02-12,Pokhara,Clothing,4005.96,1,30,Bank Transfer,4.1,4005.96,February,2,Monday,25-34,Standard
+1440,2024-11-17,Lalitpur,Home & Kitchen,7736.64,1,33,Khalti,3.9,7736.64,November,11,Sunday,25-34,Premium
+1441,2024-01-08,Kathmandu,Home & Kitchen,5839.93,1,31,Khalti,4.0,5839.93,January,1,Monday,25-34,Premium
+1442,2024-02-14,Chitwan,Books,2045.33,1,20,Cash on Delivery,5.0,2045.33,February,2,Wednesday,16-24,Standard
+1443,2024-08-21,Bhaktapur,Electronics,16559.8675,1,44,Bank Transfer,5.0,16559.8675,August,8,Wednesday,35-44,Enterprise
+1444,2024-08-18,Pokhara,Beauty,530.86,1,44,Cash on Delivery,3.3,530.86,August,8,Sunday,35-44,Budget
+1445,2024-03-11,Kathmandu,Beauty,614.88,1,28,eSewa,2.9,614.88,March,3,Monday,25-34,Budget
+1446,2024-03-24,Chitwan,Clothing,836.7,1,30,Cash on Delivery,3.7,836.7,March,3,Sunday,25-34,Budget
+1447,2024-02-25,Kathmandu,Books,1965.63,1,23,Cash on Delivery,3.1,1965.63,February,2,Sunday,16-24,Budget
+1448,2024-08-10,Bhaktapur,Home & Kitchen,3789.2,2,25,Cash on Delivery,3.9,7578.4,August,8,Saturday,25-34,Premium
+1449,2024-07-10,Lalitpur,Groceries,1452.18,2,19,Khalti,4.1,2904.36,July,7,Wednesday,16-24,Standard
+1450,2024-09-03,Chitwan,Home & Kitchen,7727.25,1,43,eSewa,3.5,7727.25,September,9,Tuesday,35-44,Premium
+1451,2024-06-24,Lalitpur,Clothing,2562.94,2,31,Cash on Delivery,3.3,5125.88,June,6,Monday,25-34,Premium
+1452,2024-11-28,Bhaktapur,Home & Kitchen,1024.69,1,16,Cash on Delivery,2.9,1024.69,November,11,Thursday,16-24,Budget
+1453,2024-10-21,Pokhara,Electronics,16559.8675,1,25,eSewa,4.4,16559.8675,October,10,Monday,25-34,Enterprise
+1454,2024-03-17,Lalitpur,Electronics,16559.8675,1,49,eSewa,4.0,16559.8675,March,3,Sunday,45-54,Enterprise
+1455,2024-07-09,Lalitpur,Electronics,16559.8675,1,24,eSewa,3.4,16559.8675,July,7,Tuesday,16-24,Enterprise
+1456,2024-04-05,Chitwan,Beauty,1804.26,3,30,eSewa,4.5,5412.78,April,4,Friday,25-34,Premium
+1457,2024-09-12,Kathmandu,Books,907.84,3,40,eSewa,4.3,2723.52,September,9,Thursday,35-44,Standard
+1458,2024-10-13,Kathmandu,Books,2967.86,1,26,eSewa,4.5,2967.86,October,10,Sunday,25-34,Standard
+1459,2024-10-02,Pokhara,Beauty,2606.87,1,23,Khalti,3.4,2606.87,October,10,Wednesday,16-24,Standard
+1460,2024-08-06,Kathmandu,Beauty,646.97,1,21,eSewa,3.6,646.97,August,8,Tuesday,16-24,Budget
+1461,2024-06-04,Bhaktapur,Groceries,1515.87,1,29,Khalti,3.1,1515.87,June,6,Tuesday,25-34,Budget
+1462,2024-08-08,Bhaktapur,Electronics,16559.8675,3,48,Cash on Delivery,3.9,49679.6025,August,8,Thursday,45-54,Enterprise
+1463,2024-07-19,Pokhara,Electronics,16559.8675,1,26,Khalti,4.4,16559.8675,July,7,Friday,25-34,Enterprise
+1464,2024-06-30,Chitwan,Books,1743.25,1,35,eSewa,4.7,1743.25,June,6,Sunday,35-44,Budget
+1465,2024-03-12,Chitwan,Home & Kitchen,11089.3,1,37,eSewa,5.0,11089.3,March,3,Tuesday,35-44,Enterprise
+1466,2024-09-29,Kathmandu,Groceries,1901.85,1,40,Cash on Delivery,4.2,1901.85,September,9,Sunday,35-44,Budget
+1467,2024-07-10,Pokhara,Books,1224.48,1,27,Khalti,4.1,1224.48,July,7,Wednesday,25-34,Budget
+1468,2024-04-13,Chitwan,Electronics,16559.8675,1,36,Cash on Delivery,2.9,16559.8675,April,4,Saturday,35-44,Enterprise
+1469,2024-10-19,Biratnagar,Books,1027.83,1,21,eSewa,4.9,1027.83,October,10,Saturday,16-24,Budget
+1470,2024-04-14,Kathmandu,Clothing,2550.29,1,42,eSewa,3.9,2550.29,April,4,Sunday,35-44,Standard
+1471,2024-07-28,Chitwan,Books,421.03,1,32,Bank Transfer,4.1,421.03,July,7,Sunday,25-34,Budget
+1472,2024-05-16,Kathmandu,Clothing,4678.84,1,20,eSewa,4.9,4678.84,May,5,Thursday,16-24,Standard
+1473,2024-09-06,Kathmandu,Beauty,1952.84,1,18,eSewa,4.8,1952.84,September,9,Friday,16-24,Budget
+1474,2024-04-22,Kathmandu,Beauty,724.75,3,35,Khalti,3.2,2174.25,April,4,Monday,35-44,Standard
+1475,2024-05-19,Chitwan,Clothing,4352.6,1,40,eSewa,3.2,4352.6,May,5,Sunday,35-44,Standard
+1476,2024-05-28,Pokhara,Electronics,16559.8675,3,32,eSewa,5.0,49679.6025,May,5,Tuesday,25-34,Enterprise
+1477,2024-10-28,Lalitpur,Clothing,1849.74,1,16,Khalti,5.0,1849.74,October,10,Monday,16-24,Budget
+1478,2024-03-31,Chitwan,Groceries,925.5,2,32,Cash on Delivery,5.0,1851.0,March,3,Sunday,25-34,Budget
+1479,2024-06-28,Kathmandu,Groceries,1086.06,1,34,eSewa,4.5,1086.06,June,6,Friday,25-34,Budget
+1480,2024-08-24,Lalitpur,Beauty,579.95,1,32,Cash on Delivery,3.9,579.95,August,8,Saturday,25-34,Budget
+1481,2024-04-17,Kathmandu,Home & Kitchen,9560.61,2,32,eSewa,3.1,19121.22,April,4,Wednesday,25-34,Enterprise
+1482,2024-04-03,Kathmandu,Beauty,1211.1,1,29,eSewa,4.5,1211.1,April,4,Wednesday,25-34,Budget
+1483,2024-10-04,Kathmandu,Home & Kitchen,1186.95,1,17,Khalti,4.6,1186.95,October,10,Friday,16-24,Budget
+1484,2024-01-22,Pokhara,Books,2713.68,2,30,Cash on Delivery,3.0,5427.36,January,1,Monday,25-34,Premium
+1485,2024-06-14,Pokhara,Electronics,16559.8675,1,41,eSewa,4.0,16559.8675,June,6,Friday,35-44,Enterprise
+1486,2024-09-25,Pokhara,Beauty,2432.95,2,33,eSewa,4.1,4865.9,September,9,Wednesday,25-34,Standard
+1487,2024-01-26,Chitwan,Books,414.39,1,20,eSewa,3.4,414.39,January,1,Friday,16-24,Budget
+1488,2024-01-14,Biratnagar,Clothing,4870.18,1,23,Khalti,3.5,4870.18,January,1,Sunday,16-24,Standard
+1489,2024-04-09,Bhaktapur,Groceries,205.7,1,24,Cash on Delivery,2.6,205.7,April,4,Tuesday,16-24,Budget
+1490,2024-05-20,Lalitpur,Clothing,976.43,1,16,eSewa,4.3,976.43,May,5,Monday,16-24,Budget
+1491,2024-08-07,Chitwan,Books,708.98,1,26,Khalti,3.7,708.98,August,8,Wednesday,25-34,Budget
+1492,2024-10-06,Chitwan,Clothing,3006.68,1,22,Cash on Delivery,3.2,3006.68,October,10,Sunday,16-24,Standard
+1493,2024-11-08,Kathmandu,Home & Kitchen,13813.17,1,27,eSewa,3.6,13813.17,November,11,Friday,25-34,Enterprise
+1494,2024-06-19,Biratnagar,Beauty,1885.29,2,32,Khalti,3.8,3770.58,June,6,Wednesday,25-34,Standard
+1495,2024-04-05,Kathmandu,Clothing,4298.96,1,28,Cash on Delivery,4.3,4298.96,April,4,Friday,25-34,Standard
+1496,2024-04-05,Chitwan,Groceries,2088.37,2,43,eSewa,3.5,4176.74,April,4,Friday,35-44,Standard
+1497,2024-07-11,Pokhara,Books,2497.2,1,23,Bank Transfer,4.8,2497.2,July,7,Thursday,16-24,Standard
+1498,2024-09-26,Bhaktapur,Groceries,2494.29,1,33,eSewa,3.2,2494.29,September,9,Thursday,25-34,Standard
+1499,2024-08-24,Lalitpur,Home & Kitchen,8559.71,1,42,Cash on Delivery,3.9,8559.71,August,8,Saturday,35-44,Premium
+1500,2024-01-25,Lalitpur,Books,1300.69,1,30,eSewa,4.4,1300.69,January,1,Thursday,25-34,Budget
+1501,2024-07-27,Kathmandu,Groceries,2092.36,3,24,eSewa,4.0,6277.08,July,7,Saturday,16-24,Premium
+1502,2024-07-05,Lalitpur,Electronics,3057.0,2,29,Khalti,4.1,6114.0,July,7,Friday,25-34,Premium
+1503,2024-11-10,Lalitpur,Beauty,2395.0,1,44,eSewa,4.4,2395.0,November,11,Sunday,35-44,Standard
+1504,2024-05-20,Biratnagar,Books,744.45,1,24,eSewa,4.6,744.45,May,5,Monday,16-24,Budget
+1505,2024-10-18,Pokhara,Beauty,624.09,1,37,eSewa,3.8,624.09,October,10,Friday,35-44,Budget
+1506,2024-05-03,Bhaktapur,Books,2306.91,1,28,Cash on Delivery,5.0,2306.91,May,5,Friday,25-34,Standard
+1507,2024-03-04,Kathmandu,Home & Kitchen,3091.42,1,30,Cash on Delivery,4.8,3091.42,March,3,Monday,25-34,Standard
+1508,2024-05-25,Kathmandu,Home & Kitchen,6589.56,1,29,Cash on Delivery,3.8,6589.56,May,5,Saturday,25-34,Premium
+1509,2024-12-21,Biratnagar,Beauty,1212.12,4,27,eSewa,4.6,4848.48,December,12,Saturday,25-34,Standard
+1510,2024-11-30,Biratnagar,Groceries,1655.45,2,38,Khalti,4.5,3310.9,November,11,Saturday,35-44,Standard
+1511,2024-10-04,Lalitpur,Home & Kitchen,10120.68,1,26,Bank Transfer,3.9,10120.68,October,10,Friday,25-34,Enterprise
+1512,2024-06-07,Lalitpur,Clothing,2770.79,1,39,eSewa,4.1,2770.79,June,6,Friday,35-44,Standard
+1513,2024-05-17,Pokhara,Beauty,3141.62,1,36,Cash on Delivery,2.6,3141.62,May,5,Friday,35-44,Standard
+1514,2024-03-28,Biratnagar,Books,265.89,1,43,eSewa,4.3,265.89,March,3,Thursday,35-44,Budget
+1515,2024-12-13,Kathmandu,Clothing,1641.13,1,40,Cash on Delivery,4.6,1641.13,December,12,Friday,35-44,Budget
+1516,2024-10-22,Kathmandu,Clothing,4395.03,1,20,eSewa,3.8,4395.03,October,10,Tuesday,16-24,Standard
+1517,2024-11-28,Lalitpur,Clothing,3615.59,1,18,Cash on Delivery,4.7,3615.59,November,11,Thursday,16-24,Standard
+1518,2024-12-28,Kathmandu,Beauty,2542.19,2,16,eSewa,5.0,5084.38,December,12,Saturday,16-24,Premium
+1519,2024-08-13,Biratnagar,Clothing,561.57,1,43,Cash on Delivery,4.0,561.57,August,8,Tuesday,35-44,Budget
+1520,2024-06-07,Biratnagar,Home & Kitchen,3279.99,1,41,eSewa,3.8,3279.99,June,6,Friday,35-44,Standard
+1521,2024-04-19,Kathmandu,Home & Kitchen,8807.66,1,16,Bank Transfer,4.9,8807.66,April,4,Friday,16-24,Premium
+1522,2024-06-21,Kathmandu,Home & Kitchen,2939.76,2,47,Bank Transfer,4.3,5879.52,June,6,Friday,45-54,Premium
+1523,2024-05-27,Chitwan,Electronics,16559.8675,2,22,Cash on Delivery,3.5,33119.735,May,5,Monday,16-24,Enterprise
+1524,2024-07-16,Bhaktapur,Groceries,1524.31,1,29,eSewa,1.5,1524.31,July,7,Tuesday,25-34,Budget
+1525,2024-07-24,Kathmandu,Groceries,1064.87,2,18,eSewa,3.5,2129.74,July,7,Wednesday,16-24,Standard
+1526,2024-07-19,Lalitpur,Beauty,3843.24,1,26,Cash on Delivery,5.0,3843.24,July,7,Friday,25-34,Standard
+1527,2024-09-03,Pokhara,Beauty,1738.29,1,22,eSewa,4.0,1738.29,September,9,Tuesday,16-24,Budget
+1528,2024-02-27,Pokhara,Home & Kitchen,9074.55,2,28,Cash on Delivery,2.5,18149.1,February,2,Tuesday,25-34,Enterprise
+1529,2024-07-06,Kathmandu,Beauty,2870.22,1,45,Cash on Delivery,4.7,2870.22,July,7,Saturday,45-54,Standard
+1530,2024-10-01,Bhaktapur,Electronics,16559.8675,1,19,eSewa,4.5,16559.8675,October,10,Tuesday,16-24,Enterprise
+1531,2024-12-30,Biratnagar,Books,1061.08,1,27,Bank Transfer,3.9,1061.08,December,12,Monday,25-34,Budget
+1532,2024-05-16,Kathmandu,Groceries,1248.38,1,40,eSewa,5.0,1248.38,May,5,Thursday,35-44,Budget
+1533,2024-04-07,Pokhara,Clothing,1830.49,3,20,eSewa,4.8,5491.47,April,4,Sunday,16-24,Premium
+1534,2024-11-23,Lalitpur,Clothing,1192.64,4,22,Khalti,5.0,4770.56,November,11,Saturday,16-24,Standard
+1535,2024-12-23,Lalitpur,Beauty,3987.29,2,36,eSewa,3.9,7974.58,December,12,Monday,35-44,Premium
+1536,2024-02-23,Kathmandu,Electronics,16559.8675,2,21,Cash on Delivery,5.0,33119.735,February,2,Friday,16-24,Enterprise
+1537,2024-08-02,Biratnagar,Books,1060.27,1,30,eSewa,2.7,1060.27,August,8,Friday,25-34,Budget
+1538,2024-06-12,Kathmandu,Electronics,6067.11,1,29,eSewa,3.5,6067.11,June,6,Wednesday,25-34,Premium
+1539,2024-03-19,Pokhara,Books,1193.24,1,43,Khalti,5.0,1193.24,March,3,Tuesday,35-44,Budget
+1540,2024-01-07,Lalitpur,Clothing,776.51,2,52,Khalti,4.1,1553.02,January,1,Sunday,45-54,Budget
+1541,2024-08-23,Pokhara,Books,2630.87,1,34,eSewa,3.5,2630.87,August,8,Friday,25-34,Standard
+1542,2024-06-26,Biratnagar,Clothing,1467.12,1,16,Cash on Delivery,4.8,1467.12,June,6,Wednesday,16-24,Budget
+1543,2024-02-01,Chitwan,Clothing,2884.87,1,16,eSewa,3.5,2884.87,February,2,Thursday,16-24,Standard
+1544,2024-01-17,Pokhara,Groceries,1138.65,1,27,eSewa,4.1,1138.65,January,1,Wednesday,25-34,Budget
+1545,2024-04-17,Chitwan,Books,424.52,1,17,eSewa,3.3,424.52,April,4,Wednesday,16-24,Budget
+1546,2024-03-27,Kathmandu,Beauty,760.08,2,43,Cash on Delivery,2.8,1520.16,March,3,Wednesday,35-44,Budget
+1547,2024-12-22,Kathmandu,Groceries,1339.08,1,34,eSewa,5.0,1339.08,December,12,Sunday,25-34,Budget
+1548,2024-06-09,Lalitpur,Books,441.17,2,40,eSewa,2.8,882.34,June,6,Sunday,35-44,Budget
+1549,2024-06-19,Pokhara,Home & Kitchen,1574.83,1,33,Cash on Delivery,4.3,1574.83,June,6,Wednesday,25-34,Budget
+1550,2024-07-14,Pokhara,Clothing,2485.18,1,32,Cash on Delivery,5.0,2485.18,July,7,Sunday,25-34,Standard
+1551,2024-03-25,Pokhara,Books,1505.13,1,30,Khalti,4.6,1505.13,March,3,Monday,25-34,Budget
+1552,2024-05-29,Kathmandu,Home & Kitchen,1003.5,1,42,Khalti,4.5,1003.5,May,5,Wednesday,35-44,Budget
+1553,2024-05-02,Kathmandu,Clothing,2943.49,1,25,Khalti,4.1,2943.49,May,5,Thursday,25-34,Standard
+1554,2024-12-14,Pokhara,Books,1278.29,2,39,eSewa,3.8,2556.58,December,12,Saturday,35-44,Standard
+1555,2024-05-15,Lalitpur,Home & Kitchen,904.14,1,39,Khalti,4.2,904.14,May,5,Wednesday,35-44,Budget
+1556,2024-11-22,Kathmandu,Beauty,720.1,3,31,Khalti,3.0,2160.3,November,11,Friday,25-34,Standard
+1557,2024-07-18,Kathmandu,Electronics,16559.8675,1,16,Khalti,4.2,16559.8675,July,7,Thursday,16-24,Enterprise
+1558,2024-01-25,Kathmandu,Groceries,1757.74,2,38,eSewa,2.4,3515.48,January,1,Thursday,35-44,Standard
+1559,2024-02-25,Pokhara,Home & Kitchen,3212.19,1,16,eSewa,3.8,3212.19,February,2,Sunday,16-24,Standard
+1560,2024-11-18,Chitwan,Electronics,3777.56,5,34,eSewa,4.1,18887.8,November,11,Monday,25-34,Enterprise
+1561,2024-04-27,Lalitpur,Beauty,1176.62,1,33,eSewa,3.0,1176.62,April,4,Saturday,25-34,Budget
+1562,2024-09-05,Lalitpur,Home & Kitchen,1832.84,1,25,Cash on Delivery,4.8,1832.84,September,9,Thursday,25-34,Budget
+1563,2024-08-20,Lalitpur,Books,2525.74,1,36,eSewa,5.0,2525.74,August,8,Tuesday,35-44,Standard
+1564,2024-12-13,Bhaktapur,Groceries,902.06,2,33,eSewa,2.3,1804.12,December,12,Friday,25-34,Budget
+1565,2024-04-07,Lalitpur,Books,366.93,1,47,Khalti,3.7,366.93,April,4,Sunday,45-54,Budget
+1566,2024-06-21,Kathmandu,Home & Kitchen,14950.67,1,42,Khalti,3.2,14950.67,June,6,Friday,35-44,Enterprise
+1567,2024-08-12,Lalitpur,Books,2828.26,1,24,eSewa,3.3,2828.26,August,8,Monday,16-24,Standard
+1568,2024-05-14,Biratnagar,Groceries,2086.0,1,16,Cash on Delivery,4.4,2086.0,May,5,Tuesday,16-24,Standard
+1569,2024-10-22,Lalitpur,Beauty,1825.89,1,19,eSewa,4.1,1825.89,October,10,Tuesday,16-24,Budget
+1570,2024-01-25,Kathmandu,Beauty,525.44,1,37,eSewa,4.0,525.44,January,1,Thursday,35-44,Budget
+1571,2024-06-16,Kathmandu,Books,267.05,1,23,eSewa,4.2,267.05,June,6,Sunday,16-24,Budget
+1572,2024-02-04,Biratnagar,Electronics,16559.8675,1,32,Cash on Delivery,5.0,16559.8675,February,2,Sunday,25-34,Enterprise
+1573,2024-01-25,Bhaktapur,Clothing,3321.36,2,31,eSewa,4.8,6642.72,January,1,Thursday,25-34,Premium
+1574,2024-02-03,Pokhara,Clothing,1315.27,2,44,eSewa,5.0,2630.54,February,2,Saturday,35-44,Standard
+1575,2024-01-10,Pokhara,Electronics,7190.56,1,23,Khalti,3.4,7190.56,January,1,Wednesday,16-24,Premium
+1576,2024-06-16,Lalitpur,Electronics,16559.8675,1,29,Khalti,4.9,16559.8675,June,6,Sunday,25-34,Enterprise
+1577,2024-09-16,Chitwan,Clothing,4486.61,2,30,Cash on Delivery,4.9,8973.22,September,9,Monday,25-34,Premium
+1578,2024-09-23,Kathmandu,Books,359.93,1,48,eSewa,4.1,359.93,September,9,Monday,45-54,Budget
+1579,2024-11-07,Chitwan,Electronics,16559.8675,1,40,eSewa,4.5,16559.8675,November,11,Thursday,35-44,Enterprise
+1580,2024-08-10,Bhaktapur,Beauty,1422.53,2,29,eSewa,4.4,2845.06,August,8,Saturday,25-34,Standard
+1581,2024-08-07,Kathmandu,Clothing,4843.44,1,16,Khalti,4.1,4843.44,August,8,Wednesday,16-24,Standard
+1582,2024-08-01,Pokhara,Books,1077.15,1,22,Cash on Delivery,3.6,1077.15,August,8,Thursday,16-24,Budget
+1583,2024-02-04,Biratnagar,Electronics,16559.8675,2,16,eSewa,3.2,33119.735,February,2,Sunday,16-24,Enterprise
+1584,2024-08-07,Lalitpur,Books,505.24,1,56,Bank Transfer,3.4,505.24,August,8,Wednesday,55-70,Budget
+1585,2024-01-06,Bhaktapur,Groceries,1984.2,1,31,eSewa,4.4,1984.2,January,1,Saturday,25-34,Budget
+1586,2024-04-24,Kathmandu,Electronics,16559.8675,1,29,eSewa,4.0,16559.8675,April,4,Wednesday,25-34,Enterprise
+1587,2024-11-23,Biratnagar,Books,2054.48,2,38,Cash on Delivery,3.5,4108.96,November,11,Saturday,35-44,Standard
+1588,2024-11-07,Lalitpur,Beauty,2908.65,2,43,eSewa,5.0,5817.3,November,11,Thursday,35-44,Premium
+1589,2024-06-20,Kathmandu,Groceries,2402.73,1,34,Khalti,4.9,2402.73,June,6,Thursday,25-34,Standard
+1590,2024-07-27,Pokhara,Home & Kitchen,9005.16,1,33,Cash on Delivery,4.4,9005.16,July,7,Saturday,25-34,Premium
+1591,2024-09-09,Chitwan,Books,1326.23,1,26,eSewa,3.5,1326.23,September,9,Monday,25-34,Budget
+1592,2024-11-30,Kathmandu,Clothing,2335.0,2,38,eSewa,3.8,4670.0,November,11,Saturday,35-44,Standard
+1593,2024-12-19,Bhaktapur,Groceries,1611.11,2,20,eSewa,3.9,3222.22,December,12,Thursday,16-24,Standard
+1594,2024-03-19,Pokhara,Electronics,15237.24,1,32,Khalti,2.4,15237.24,March,3,Tuesday,25-34,Enterprise
+1595,2024-02-07,Kathmandu,Beauty,423.09,1,24,Khalti,2.2,423.09,February,2,Wednesday,16-24,Budget
+1596,2024-03-25,Pokhara,Electronics,16559.8675,1,33,eSewa,4.8,16559.8675,March,3,Monday,25-34,Enterprise
+1597,2024-12-15,Lalitpur,Clothing,707.28,3,29,Bank Transfer,4.1,2121.84,December,12,Sunday,25-34,Standard
+1598,2024-07-15,Biratnagar,Groceries,231.36,1,31,Khalti,3.3,231.36,July,7,Monday,25-34,Budget
+1599,2024-09-07,Kathmandu,Books,2278.42,1,32,Khalti,4.2,2278.42,September,9,Saturday,25-34,Standard
+1600,2024-06-19,Bhaktapur,Home & Kitchen,8075.98,1,21,Cash on Delivery,4.7,8075.98,June,6,Wednesday,16-24,Premium
+1601,2024-03-27,Bhaktapur,Home & Kitchen,14919.49,1,37,eSewa,3.0,14919.49,March,3,Wednesday,35-44,Enterprise
+1602,2024-10-21,Biratnagar,Books,1155.48,1,32,Cash on Delivery,4.4,1155.48,October,10,Monday,25-34,Budget
+1603,2024-11-18,Biratnagar,Books,2378.53,1,35,eSewa,2.6,2378.53,November,11,Monday,35-44,Standard
+1604,2024-02-21,Biratnagar,Clothing,2922.78,5,32,Cash on Delivery,2.7,14613.900000000001,February,2,Wednesday,25-34,Enterprise
+1605,2024-07-16,Kathmandu,Home & Kitchen,14347.4,1,20,eSewa,3.5,14347.4,July,7,Tuesday,16-24,Enterprise
+1606,2024-11-11,Pokhara,Groceries,1127.57,1,38,Bank Transfer,3.9,1127.57,November,11,Monday,35-44,Budget
+1607,2024-01-31,Kathmandu,Beauty,3028.42,1,40,eSewa,3.1,3028.42,January,1,Wednesday,35-44,Standard
+1608,2024-02-26,Kathmandu,Books,2210.21,1,31,eSewa,5.0,2210.21,February,2,Monday,25-34,Standard
+1609,2024-01-16,Kathmandu,Groceries,1243.66,2,44,Bank Transfer,4.2,2487.32,January,1,Tuesday,35-44,Standard
+1610,2024-06-29,Kathmandu,Groceries,134.51,2,22,Khalti,2.9,269.02,June,6,Saturday,16-24,Budget
+1611,2024-01-02,Kathmandu,Books,1447.27,1,30,Cash on Delivery,2.5,1447.27,January,1,Tuesday,25-34,Budget
+1612,2024-02-27,Kathmandu,Electronics,16559.8675,1,18,eSewa,4.1,16559.8675,February,2,Tuesday,16-24,Enterprise
+1613,2024-01-27,Pokhara,Clothing,1444.54,1,35,eSewa,4.0,1444.54,January,1,Saturday,35-44,Budget
+1614,2024-04-28,Pokhara,Clothing,989.07,5,44,Khalti,4.0,4945.35,April,4,Sunday,35-44,Standard
+1615,2024-05-30,Bhaktapur,Beauty,840.28,3,34,Bank Transfer,4.8,2520.84,May,5,Thursday,25-34,Standard
+1616,2024-08-11,Chitwan,Electronics,16559.8675,1,40,Cash on Delivery,4.1,16559.8675,August,8,Sunday,35-44,Enterprise
+1617,2024-03-14,Chitwan,Beauty,1713.86,1,37,Bank Transfer,5.0,1713.86,March,3,Thursday,35-44,Budget
+1618,2024-10-10,Kathmandu,Electronics,16559.8675,2,42,eSewa,4.0,33119.735,October,10,Thursday,35-44,Enterprise
+1619,2024-03-29,Bhaktapur,Home & Kitchen,8145.57,1,26,Khalti,4.0,8145.57,March,3,Friday,25-34,Premium
+1620,2024-12-09,Kathmandu,Groceries,308.97,1,25,Bank Transfer,3.9,308.97,December,12,Monday,25-34,Budget
+1621,2024-05-16,Kathmandu,Clothing,2287.72,1,31,Khalti,3.3,2287.72,May,5,Thursday,25-34,Standard
+1622,2024-07-01,Kathmandu,Clothing,3837.05,1,30,Khalti,5.0,3837.05,July,7,Monday,25-34,Standard
+1623,2024-08-10,Kathmandu,Electronics,16559.8675,2,54,Khalti,4.2,33119.735,August,8,Saturday,45-54,Enterprise
+1624,2024-09-27,Kathmandu,Home & Kitchen,1504.4,1,47,eSewa,4.0,1504.4,September,9,Friday,45-54,Budget
+1625,2024-10-24,Lalitpur,Electronics,16559.8675,1,24,eSewa,2.7,16559.8675,October,10,Thursday,16-24,Enterprise
+1626,2024-12-20,Chitwan,Groceries,1140.87,2,34,eSewa,5.0,2281.74,December,12,Friday,25-34,Standard
+1627,2024-11-13,Pokhara,Home & Kitchen,12232.38,2,42,Khalti,2.7,24464.76,November,11,Wednesday,35-44,Enterprise
+1628,2024-08-20,Kathmandu,Books,1977.28,1,32,Khalti,3.4,1977.28,August,8,Tuesday,25-34,Budget
+1629,2024-03-08,Bhaktapur,Electronics,16559.8675,1,29,Khalti,4.5,16559.8675,March,3,Friday,25-34,Enterprise
+1630,2024-03-18,Kathmandu,Home & Kitchen,14461.85,1,30,eSewa,4.0,14461.85,March,3,Monday,25-34,Enterprise
+1631,2024-03-27,Kathmandu,Home & Kitchen,1563.7,1,38,Khalti,4.5,1563.7,March,3,Wednesday,35-44,Budget
+1632,2024-07-01,Bhaktapur,Home & Kitchen,12968.89,3,16,Khalti,4.8,38906.67,July,7,Monday,16-24,Enterprise
+1633,2024-01-18,Kathmandu,Books,1592.31,1,33,Khalti,5.0,1592.31,January,1,Thursday,25-34,Budget
+1634,2024-04-16,Kathmandu,Groceries,916.01,2,42,eSewa,3.2,1832.02,April,4,Tuesday,35-44,Budget
+1635,2024-10-19,Kathmandu,Groceries,497.2,2,26,Khalti,3.5,994.4,October,10,Saturday,25-34,Budget
+1636,2024-04-15,Lalitpur,Beauty,3395.16,2,30,Cash on Delivery,4.0,6790.32,April,4,Monday,25-34,Premium
+1637,2024-02-03,Kathmandu,Home & Kitchen,3538.76,1,24,eSewa,4.4,3538.76,February,2,Saturday,16-24,Standard
+1638,2024-12-19,Pokhara,Groceries,1257.46,1,33,Cash on Delivery,4.2,1257.46,December,12,Thursday,25-34,Budget
+1639,2024-09-18,Kathmandu,Clothing,1046.37,2,40,Khalti,5.0,2092.74,September,9,Wednesday,35-44,Standard
+1640,2024-05-03,Pokhara,Electronics,16559.8675,1,34,eSewa,3.7,16559.8675,May,5,Friday,25-34,Enterprise
+1641,2024-08-27,Pokhara,Beauty,1726.55,1,33,eSewa,2.7,1726.55,August,8,Tuesday,25-34,Budget
+1642,2024-05-08,Bhaktapur,Home & Kitchen,13901.56,1,31,eSewa,4.2,13901.56,May,5,Wednesday,25-34,Enterprise
+1643,2024-05-24,Lalitpur,Clothing,4642.41,1,28,Cash on Delivery,3.7,4642.41,May,5,Friday,25-34,Standard
+1644,2024-02-08,Pokhara,Beauty,2216.64,1,23,eSewa,4.0,2216.64,February,2,Thursday,16-24,Standard
+1645,2024-04-19,Biratnagar,Home & Kitchen,4205.44,1,31,Khalti,4.1,4205.44,April,4,Friday,25-34,Standard
+1646,2024-12-08,Kathmandu,Clothing,2310.38,1,29,Cash on Delivery,3.6,2310.38,December,12,Sunday,25-34,Standard
+1647,2024-03-24,Pokhara,Clothing,952.53,1,45,eSewa,5.0,952.53,March,3,Sunday,45-54,Budget
+1648,2024-12-08,Bhaktapur,Beauty,3573.79,1,32,Cash on Delivery,4.9,3573.79,December,12,Sunday,25-34,Standard
+1649,2024-12-15,Pokhara,Home & Kitchen,12844.18,1,22,eSewa,4.9,12844.18,December,12,Sunday,16-24,Enterprise
+1650,2024-02-26,Lalitpur,Clothing,753.01,1,20,Khalti,3.5,753.01,February,2,Monday,16-24,Budget
+1651,2024-04-17,Chitwan,Clothing,2816.34,1,42,eSewa,2.8,2816.34,April,4,Wednesday,35-44,Standard
+1652,2024-07-22,Kathmandu,Beauty,1758.13,2,43,Khalti,4.5,3516.26,July,7,Monday,35-44,Standard
+1653,2024-11-03,Lalitpur,Beauty,2288.16,1,26,eSewa,3.5,2288.16,November,11,Sunday,25-34,Standard
+1654,2024-08-27,Kathmandu,Home & Kitchen,10404.86,1,18,Cash on Delivery,3.7,10404.86,August,8,Tuesday,16-24,Enterprise
+1655,2024-08-24,Kathmandu,Beauty,449.24,1,27,Cash on Delivery,3.8,449.24,August,8,Saturday,25-34,Budget
+1656,2024-12-27,Kathmandu,Home & Kitchen,12708.25,2,41,Cash on Delivery,3.9,25416.5,December,12,Friday,35-44,Enterprise
+1657,2024-08-31,Pokhara,Home & Kitchen,7976.19,1,28,Bank Transfer,4.1,7976.19,August,8,Saturday,25-34,Premium
+1658,2024-02-27,Pokhara,Beauty,1947.51,1,28,eSewa,4.3,1947.51,February,2,Tuesday,25-34,Budget
+1659,2024-03-14,Kathmandu,Electronics,16559.8675,3,23,Khalti,3.2,49679.6025,March,3,Thursday,16-24,Enterprise
+1660,2024-01-04,Chitwan,Books,991.74,1,28,Khalti,3.8,991.74,January,1,Thursday,25-34,Budget
+1661,2024-03-01,Biratnagar,Clothing,4108.28,1,32,Cash on Delivery,5.0,4108.28,March,3,Friday,25-34,Standard
+1662,2024-09-11,Pokhara,Clothing,3902.87,1,22,eSewa,4.7,3902.87,September,9,Wednesday,16-24,Standard
+1663,2024-12-17,Pokhara,Beauty,1370.2,1,24,Khalti,4.0,1370.2,December,12,Tuesday,16-24,Budget
+1664,2024-10-20,Biratnagar,Clothing,3533.17,1,28,Khalti,3.8,3533.17,October,10,Sunday,25-34,Standard
+1665,2024-08-26,Pokhara,Clothing,4702.9,1,29,Khalti,4.4,4702.9,August,8,Monday,25-34,Standard
+1666,2024-01-27,Pokhara,Electronics,16559.8675,1,16,Bank Transfer,3.7,16559.8675,January,1,Saturday,16-24,Enterprise
+1667,2024-08-29,Pokhara,Books,2129.54,2,30,Khalti,3.5,4259.08,August,8,Thursday,25-34,Standard
+1668,2024-03-24,Kathmandu,Home & Kitchen,3696.72,2,30,eSewa,4.5,7393.44,March,3,Sunday,25-34,Premium
+1669,2024-02-14,Kathmandu,Clothing,4277.54,1,26,Cash on Delivery,3.5,4277.54,February,2,Wednesday,25-34,Standard
+1670,2024-04-26,Kathmandu,Beauty,1045.2,1,28,Bank Transfer,4.5,1045.2,April,4,Friday,25-34,Budget
+1671,2024-01-10,Bhaktapur,Clothing,1981.54,1,32,eSewa,3.7,1981.54,January,1,Wednesday,25-34,Budget
+1672,2024-05-24,Bhaktapur,Beauty,3133.71,1,29,Khalti,3.2,3133.71,May,5,Friday,25-34,Standard
+1673,2024-11-01,Kathmandu,Books,1479.77,1,33,Khalti,4.3,1479.77,November,11,Friday,25-34,Budget
+1674,2024-04-04,Biratnagar,Electronics,16559.8675,1,27,Khalti,4.7,16559.8675,April,4,Thursday,25-34,Enterprise
+1675,2024-06-30,Biratnagar,Books,1625.09,1,28,eSewa,2.7,1625.09,June,6,Sunday,25-34,Budget
+1676,2024-07-11,Lalitpur,Electronics,16559.8675,1,26,Khalti,5.0,16559.8675,July,7,Thursday,25-34,Enterprise
+1677,2024-02-24,Kathmandu,Electronics,16559.8675,1,46,Khalti,3.9,16559.8675,February,2,Saturday,45-54,Enterprise
+1678,2024-12-02,Lalitpur,Beauty,2412.16,3,31,Khalti,4.4,7236.48,December,12,Monday,25-34,Premium
+1679,2024-01-17,Kathmandu,Clothing,4823.36,1,47,Cash on Delivery,4.4,4823.36,January,1,Wednesday,45-54,Standard
+1680,2024-09-07,Kathmandu,Beauty,3983.06,1,29,eSewa,4.0,3983.06,September,9,Saturday,25-34,Standard
+1681,2024-09-24,Kathmandu,Beauty,2206.12,5,32,eSewa,4.4,11030.599999999999,September,9,Tuesday,25-34,Enterprise
+1682,2024-09-27,Kathmandu,Electronics,16559.8675,1,31,Cash on Delivery,2.4,16559.8675,September,9,Friday,25-34,Enterprise
+1683,2024-04-18,Pokhara,Beauty,3296.92,1,30,Khalti,5.0,3296.92,April,4,Thursday,25-34,Standard
+1684,2024-06-15,Biratnagar,Books,422.89,2,27,eSewa,2.8,845.78,June,6,Saturday,25-34,Budget
+1685,2024-02-07,Kathmandu,Clothing,2174.2,1,44,eSewa,4.6,2174.2,February,2,Wednesday,35-44,Standard
+1686,2024-08-07,Bhaktapur,Groceries,2399.53,1,25,eSewa,4.8,2399.53,August,8,Wednesday,25-34,Standard
+1687,2024-10-05,Kathmandu,Clothing,2867.42,1,26,Cash on Delivery,3.9,2867.42,October,10,Saturday,25-34,Standard
+1688,2024-05-19,Chitwan,Electronics,16559.8675,1,30,Cash on Delivery,5.0,16559.8675,May,5,Sunday,25-34,Enterprise
+1689,2024-11-22,Bhaktapur,Books,1994.87,2,36,eSewa,5.0,3989.74,November,11,Friday,35-44,Standard
+1690,2024-11-09,Kathmandu,Clothing,788.43,1,44,Cash on Delivery,3.4,788.43,November,11,Saturday,35-44,Budget
+1691,2024-08-01,Lalitpur,Beauty,2003.22,1,16,eSewa,4.0,2003.22,August,8,Thursday,16-24,Standard
+1692,2024-01-17,Kathmandu,Clothing,1065.4,1,37,eSewa,4.8,1065.4,January,1,Wednesday,35-44,Budget
+1693,2024-01-04,Biratnagar,Beauty,1656.71,1,17,eSewa,4.1,1656.71,January,1,Thursday,16-24,Budget
+1694,2024-10-22,Kathmandu,Books,1204.25,1,20,eSewa,4.5,1204.25,October,10,Tuesday,16-24,Budget
+1695,2024-06-28,Kathmandu,Electronics,16559.8675,1,32,Khalti,3.9,16559.8675,June,6,Friday,25-34,Enterprise
+1696,2024-08-03,Chitwan,Groceries,2047.9,1,31,Khalti,4.1,2047.9,August,8,Saturday,25-34,Standard
+1697,2024-12-01,Lalitpur,Clothing,1203.63,2,46,eSewa,4.2,2407.26,December,12,Sunday,45-54,Standard
+1698,2024-07-18,Kathmandu,Clothing,3342.75,1,16,Bank Transfer,3.7,3342.75,July,7,Thursday,16-24,Standard
+1699,2024-07-17,Kathmandu,Home & Kitchen,5383.9,1,18,eSewa,4.0,5383.9,July,7,Wednesday,16-24,Premium
+1700,2024-08-01,Lalitpur,Books,2372.46,2,25,Khalti,4.0,4744.92,August,8,Thursday,25-34,Standard
+1701,2024-08-26,Kathmandu,Electronics,16559.8675,1,29,eSewa,5.0,16559.8675,August,8,Monday,25-34,Enterprise
+1702,2024-03-27,Kathmandu,Clothing,2444.05,5,30,Khalti,4.9,12220.25,March,3,Wednesday,25-34,Enterprise
+1703,2024-08-18,Biratnagar,Groceries,2285.6,1,30,eSewa,4.3,2285.6,August,8,Sunday,25-34,Standard
+1704,2024-02-16,Kathmandu,Groceries,627.67,1,35,Khalti,4.0,627.67,February,2,Friday,35-44,Budget
+1705,2024-03-04,Kathmandu,Clothing,2781.5,1,17,Bank Transfer,5.0,2781.5,March,3,Monday,16-24,Standard
+1706,2024-01-11,Kathmandu,Groceries,1993.83,1,39,Cash on Delivery,4.9,1993.83,January,1,Thursday,35-44,Budget
+1707,2024-04-20,Lalitpur,Books,2931.69,1,22,Cash on Delivery,4.4,2931.69,April,4,Saturday,16-24,Standard
+1708,2024-07-09,Pokhara,Electronics,16559.8675,1,34,Khalti,4.8,16559.8675,July,7,Tuesday,25-34,Enterprise
+1709,2024-08-17,Chitwan,Beauty,3475.82,1,17,Khalti,4.9,3475.82,August,8,Saturday,16-24,Standard
+1710,2024-08-05,Bhaktapur,Electronics,16559.8675,3,41,eSewa,4.9,49679.6025,August,8,Monday,35-44,Enterprise
+1711,2024-09-13,Kathmandu,Beauty,763.43,1,33,Bank Transfer,3.5,763.43,September,9,Friday,25-34,Budget
+1712,2024-06-14,Pokhara,Groceries,284.73,1,20,Bank Transfer,4.3,284.73,June,6,Friday,16-24,Budget
+1713,2024-01-21,Kathmandu,Electronics,16559.8675,1,27,Cash on Delivery,4.2,16559.8675,January,1,Sunday,25-34,Enterprise
+1714,2024-04-02,Lalitpur,Clothing,3225.89,1,31,Khalti,3.8,3225.89,April,4,Tuesday,25-34,Standard
+1715,2024-12-07,Chitwan,Home & Kitchen,3472.9,1,21,Khalti,3.9,3472.9,December,12,Saturday,16-24,Standard
+1716,2024-03-13,Kathmandu,Books,767.99,5,16,Cash on Delivery,3.8,3839.95,March,3,Wednesday,16-24,Standard
+1717,2024-06-12,Kathmandu,Beauty,2798.35,1,20,Cash on Delivery,5.0,2798.35,June,6,Wednesday,16-24,Standard
+1718,2024-06-01,Kathmandu,Groceries,2410.56,1,32,Khalti,5.0,2410.56,June,6,Saturday,25-34,Standard
+1719,2024-01-02,Kathmandu,Clothing,818.56,1,35,eSewa,4.5,818.56,January,1,Tuesday,35-44,Budget
+1720,2024-04-26,Kathmandu,Electronics,3602.15,1,19,Cash on Delivery,4.3,3602.15,April,4,Friday,16-24,Standard
+1721,2024-10-27,Chitwan,Groceries,622.55,1,25,Cash on Delivery,3.8,622.55,October,10,Sunday,25-34,Budget
+1722,2024-02-28,Lalitpur,Home & Kitchen,3956.42,1,24,Cash on Delivery,3.7,3956.42,February,2,Wednesday,16-24,Standard
+1723,2024-03-08,Pokhara,Groceries,2098.46,1,32,eSewa,4.1,2098.46,March,3,Friday,25-34,Standard
+1724,2024-11-10,Pokhara,Electronics,16559.8675,1,34,eSewa,3.8,16559.8675,November,11,Sunday,25-34,Enterprise
+1725,2024-05-11,Lalitpur,Clothing,4581.43,1,21,Khalti,4.6,4581.43,May,5,Saturday,16-24,Standard
+1726,2024-11-05,Kathmandu,Home & Kitchen,3473.9,1,34,Khalti,5.0,3473.9,November,11,Tuesday,25-34,Standard
+1727,2024-04-16,Bhaktapur,Beauty,823.12,1,31,eSewa,5.0,823.12,April,4,Tuesday,25-34,Budget
+1728,2024-06-17,Pokhara,Home & Kitchen,12464.89,1,23,eSewa,3.5,12464.89,June,6,Monday,16-24,Enterprise
+1729,2024-12-01,Pokhara,Beauty,444.32,1,27,eSewa,3.2,444.32,December,12,Sunday,25-34,Budget
+1730,2024-02-28,Bhaktapur,Clothing,3613.0,1,25,Cash on Delivery,3.8,3613.0,February,2,Wednesday,25-34,Standard
+1731,2024-08-16,Biratnagar,Clothing,981.63,2,24,eSewa,4.1,1963.26,August,8,Friday,16-24,Budget
+1732,2024-04-15,Pokhara,Home & Kitchen,5207.27,2,35,Khalti,3.0,10414.54,April,4,Monday,35-44,Enterprise
+1733,2024-04-23,Bhaktapur,Clothing,1705.99,3,30,eSewa,3.3,5117.97,April,4,Tuesday,25-34,Premium
+1734,2024-06-20,Biratnagar,Beauty,1408.36,1,28,eSewa,4.3,1408.36,June,6,Thursday,25-34,Budget
+1735,2024-02-27,Kathmandu,Clothing,4593.04,1,45,eSewa,3.4,4593.04,February,2,Tuesday,45-54,Standard
+1736,2024-03-09,Chitwan,Home & Kitchen,11734.3,1,30,eSewa,3.9,11734.3,March,3,Saturday,25-34,Enterprise
+1737,2024-03-02,Pokhara,Groceries,589.01,1,46,Bank Transfer,4.2,589.01,March,3,Saturday,45-54,Budget
+1738,2024-09-02,Kathmandu,Groceries,2070.04,1,31,Bank Transfer,3.3,2070.04,September,9,Monday,25-34,Standard
+1739,2024-04-15,Bhaktapur,Clothing,1876.53,1,23,Khalti,4.5,1876.53,April,4,Monday,16-24,Budget
+1740,2024-02-24,Kathmandu,Beauty,2150.13,1,30,eSewa,3.8,2150.13,February,2,Saturday,25-34,Standard
+1741,2024-10-24,Biratnagar,Books,2429.89,1,21,Bank Transfer,4.8,2429.89,October,10,Thursday,16-24,Standard
+1742,2024-02-15,Lalitpur,Clothing,1149.4,1,26,eSewa,2.7,1149.4,February,2,Thursday,25-34,Budget
+1743,2024-11-08,Chitwan,Beauty,1484.06,1,35,Cash on Delivery,3.4,1484.06,November,11,Friday,35-44,Budget
+1744,2024-08-02,Chitwan,Groceries,1929.67,1,21,Khalti,5.0,1929.67,August,8,Friday,16-24,Budget
+1745,2024-06-17,Kathmandu,Clothing,533.58,1,26,Bank Transfer,4.6,533.58,June,6,Monday,25-34,Budget
+1746,2024-04-15,Lalitpur,Clothing,1300.48,1,27,eSewa,5.0,1300.48,April,4,Monday,25-34,Budget
+1747,2024-12-18,Pokhara,Beauty,407.93,1,30,Khalti,3.1,407.93,December,12,Wednesday,25-34,Budget
+1748,2024-05-13,Biratnagar,Electronics,16559.8675,1,45,eSewa,3.8,16559.8675,May,5,Monday,45-54,Enterprise
+1749,2024-07-04,Chitwan,Home & Kitchen,3530.88,1,33,Khalti,4.0,3530.88,July,7,Thursday,25-34,Standard
+1750,2024-04-13,Kathmandu,Groceries,1629.01,2,21,Cash on Delivery,5.0,3258.02,April,4,Saturday,16-24,Standard
+1751,2024-09-25,Chitwan,Groceries,221.93,1,27,Cash on Delivery,4.0,221.93,September,9,Wednesday,25-34,Budget
+1752,2024-11-24,Kathmandu,Electronics,16559.8675,1,18,Cash on Delivery,4.7,16559.8675,November,11,Sunday,16-24,Enterprise
+1753,2024-01-29,Biratnagar,Beauty,3899.52,1,27,eSewa,3.6,3899.52,January,1,Monday,25-34,Standard
+1754,2024-11-09,Kathmandu,Groceries,1379.94,5,22,Khalti,3.3,6899.700000000001,November,11,Saturday,16-24,Premium
+1755,2024-07-10,Bhaktapur,Clothing,4662.79,1,20,Bank Transfer,3.4,4662.79,July,7,Wednesday,16-24,Standard
+1756,2024-11-29,Bhaktapur,Groceries,1079.05,5,37,Khalti,4.3,5395.25,November,11,Friday,35-44,Premium
+1757,2024-12-27,Kathmandu,Beauty,3300.46,1,25,eSewa,4.1,3300.46,December,12,Friday,25-34,Standard
+1758,2024-08-31,Kathmandu,Electronics,16559.8675,1,25,Khalti,4.6,16559.8675,August,8,Saturday,25-34,Enterprise
+1759,2024-03-09,Kathmandu,Books,613.99,3,31,Khalti,3.2,1841.97,March,3,Saturday,25-34,Budget
+1760,2024-01-31,Pokhara,Books,1319.04,5,37,eSewa,3.3,6595.2,January,1,Wednesday,35-44,Premium
+1761,2024-06-28,Lalitpur,Clothing,3496.76,2,29,eSewa,1.6,6993.52,June,6,Friday,25-34,Premium
+1762,2024-01-26,Pokhara,Clothing,1065.12,2,33,eSewa,3.3,2130.24,January,1,Friday,25-34,Standard
+1763,2024-11-08,Chitwan,Beauty,1088.23,1,22,Khalti,4.1,1088.23,November,11,Friday,16-24,Budget
+1764,2024-11-04,Chitwan,Beauty,415.97,1,36,Cash on Delivery,3.4,415.97,November,11,Monday,35-44,Budget
+1765,2024-11-27,Kathmandu,Clothing,3511.7,2,31,eSewa,4.2,7023.4,November,11,Wednesday,25-34,Premium
+1766,2024-06-26,Lalitpur,Home & Kitchen,2630.42,2,40,eSewa,3.6,5260.84,June,6,Wednesday,35-44,Premium
+1767,2024-10-06,Biratnagar,Beauty,1172.03,2,18,eSewa,2.6,2344.06,October,10,Sunday,16-24,Standard
+1768,2024-05-30,Biratnagar,Groceries,486.06,2,23,eSewa,4.2,972.12,May,5,Thursday,16-24,Budget
+1769,2024-04-02,Pokhara,Electronics,16559.8675,1,29,Khalti,5.0,16559.8675,April,4,Tuesday,25-34,Enterprise
+1770,2024-01-18,Lalitpur,Books,2571.0,2,31,Bank Transfer,4.3,5142.0,January,1,Thursday,25-34,Premium
+1771,2024-03-24,Lalitpur,Books,2423.07,1,31,eSewa,3.9,2423.07,March,3,Sunday,25-34,Standard
+1772,2024-09-28,Biratnagar,Books,1059.85,1,25,eSewa,3.9,1059.85,September,9,Saturday,25-34,Budget
+1773,2024-09-29,Kathmandu,Beauty,3872.42,1,16,Cash on Delivery,4.1,3872.42,September,9,Sunday,16-24,Standard
+1774,2024-09-15,Pokhara,Electronics,16559.8675,1,39,Bank Transfer,3.3,16559.8675,September,9,Sunday,35-44,Enterprise
+1775,2024-01-26,Biratnagar,Beauty,3045.38,1,21,Cash on Delivery,4.5,3045.38,January,1,Friday,16-24,Standard
+1776,2024-09-29,Pokhara,Groceries,2274.19,1,25,eSewa,3.8,2274.19,September,9,Sunday,25-34,Standard
+1777,2024-04-25,Lalitpur,Books,2257.33,1,38,Cash on Delivery,3.3,2257.33,April,4,Thursday,35-44,Standard
+1778,2024-02-22,Kathmandu,Home & Kitchen,11146.65,1,39,Cash on Delivery,3.8,11146.65,February,2,Thursday,35-44,Enterprise
+1779,2024-01-15,Kathmandu,Home & Kitchen,11131.02,1,42,Khalti,3.6,11131.02,January,1,Monday,35-44,Enterprise
+1780,2024-08-31,Pokhara,Clothing,1910.65,1,30,Cash on Delivery,4.6,1910.65,August,8,Saturday,25-34,Budget
+1781,2024-05-15,Biratnagar,Groceries,1231.17,5,24,Khalti,4.5,6155.85,May,5,Wednesday,16-24,Premium
+1782,2024-07-09,Lalitpur,Books,1330.15,5,34,Khalti,3.5,6650.75,July,7,Tuesday,25-34,Premium
+1783,2024-06-19,Chitwan,Groceries,177.93,2,29,Bank Transfer,5.0,355.86,June,6,Wednesday,25-34,Budget
+1784,2024-11-29,Pokhara,Clothing,3784.66,2,32,Khalti,3.0,7569.32,November,11,Friday,25-34,Premium
+1785,2024-12-02,Biratnagar,Clothing,737.72,1,57,Khalti,5.0,737.72,December,12,Monday,55-70,Budget
+1786,2024-12-02,Pokhara,Home & Kitchen,8917.84,1,27,eSewa,3.4,8917.84,December,12,Monday,25-34,Premium
+1787,2024-10-09,Kathmandu,Books,1208.28,1,38,Cash on Delivery,5.0,1208.28,October,10,Wednesday,35-44,Budget
+1788,2024-09-30,Biratnagar,Groceries,1632.81,1,23,Bank Transfer,5.0,1632.81,September,9,Monday,16-24,Budget
+1789,2024-02-11,Kathmandu,Books,935.48,2,20,eSewa,2.8,1870.96,February,2,Sunday,16-24,Budget
+1790,2024-04-09,Bhaktapur,Clothing,4499.39,1,26,Khalti,4.4,4499.39,April,4,Tuesday,25-34,Standard
+1791,2024-05-06,Pokhara,Clothing,1181.35,2,25,eSewa,5.0,2362.7,May,5,Monday,25-34,Standard
+1792,2024-12-29,Pokhara,Beauty,749.08,5,37,Khalti,4.2,3745.4,December,12,Sunday,35-44,Standard
+1793,2024-12-25,Biratnagar,Clothing,4874.36,1,30,Cash on Delivery,3.4,4874.36,December,12,Wednesday,25-34,Standard
+1794,2024-08-21,Kathmandu,Groceries,1556.12,1,31,Cash on Delivery,3.4,1556.12,August,8,Wednesday,25-34,Budget
+1795,2024-05-26,Lalitpur,Groceries,143.39,1,38,eSewa,4.5,143.39,May,5,Sunday,35-44,Budget
+1796,2024-12-22,Chitwan,Clothing,2628.46,1,30,Bank Transfer,5.0,2628.46,December,12,Sunday,25-34,Standard
+1797,2024-08-09,Lalitpur,Groceries,918.27,2,24,Cash on Delivery,5.0,1836.54,August,8,Friday,16-24,Budget
+1798,2024-12-18,Biratnagar,Home & Kitchen,10068.74,1,34,Khalti,3.7,10068.74,December,12,Wednesday,25-34,Enterprise
+1799,2024-02-09,Kathmandu,Groceries,249.87,1,30,eSewa,3.3,249.87,February,2,Friday,25-34,Budget
+1800,2024-07-17,Bhaktapur,Electronics,10710.17,1,39,Cash on Delivery,3.1,10710.17,July,7,Wednesday,35-44,Enterprise
+1801,2024-01-08,Kathmandu,Clothing,1901.81,2,20,Khalti,4.4,3803.62,January,1,Monday,16-24,Standard
+1802,2024-12-17,Lalitpur,Beauty,1691.9,1,45,eSewa,4.0,1691.9,December,12,Tuesday,45-54,Budget
+1803,2024-07-04,Lalitpur,Electronics,16559.8675,2,30,Khalti,3.8,33119.735,July,7,Thursday,25-34,Enterprise
+1804,2024-01-10,Lalitpur,Electronics,6911.6,1,30,Cash on Delivery,3.2,6911.6,January,1,Wednesday,25-34,Premium
+1805,2024-04-27,Kathmandu,Electronics,4660.06,2,22,eSewa,4.0,9320.12,April,4,Saturday,16-24,Premium
+1806,2024-10-12,Lalitpur,Electronics,13421.25,1,32,Khalti,3.5,13421.25,October,10,Saturday,25-34,Enterprise
+1807,2024-11-26,Bhaktapur,Home & Kitchen,12518.53,2,33,Khalti,3.7,25037.06,November,11,Tuesday,25-34,Enterprise
+1808,2024-11-28,Lalitpur,Clothing,2932.49,1,29,eSewa,3.5,2932.49,November,11,Thursday,25-34,Standard
+1809,2024-05-22,Kathmandu,Beauty,2628.87,1,41,Cash on Delivery,4.1,2628.87,May,5,Wednesday,35-44,Standard
+1810,2024-09-26,Kathmandu,Electronics,13579.74,1,32,Khalti,4.8,13579.74,September,9,Thursday,25-34,Enterprise
+1811,2024-11-22,Lalitpur,Electronics,16559.8675,2,44,eSewa,4.4,33119.735,November,11,Friday,35-44,Enterprise
+1812,2024-02-21,Bhaktapur,Clothing,2420.56,1,29,eSewa,2.7,2420.56,February,2,Wednesday,25-34,Standard
+1813,2024-05-02,Biratnagar,Home & Kitchen,12968.69,1,34,Cash on Delivery,4.1,12968.69,May,5,Thursday,25-34,Enterprise
+1814,2024-04-09,Kathmandu,Books,1358.45,1,38,Khalti,3.8,1358.45,April,4,Tuesday,35-44,Budget
+1815,2024-04-05,Chitwan,Electronics,16559.8675,2,30,Bank Transfer,5.0,33119.735,April,4,Friday,25-34,Enterprise
+1816,2024-06-30,Kathmandu,Groceries,429.53,1,23,Cash on Delivery,5.0,429.53,June,6,Sunday,16-24,Budget
+1817,2024-07-02,Pokhara,Books,1854.25,2,31,Cash on Delivery,3.6,3708.5,July,7,Tuesday,25-34,Standard
+1818,2024-02-15,Bhaktapur,Electronics,16559.8675,2,37,eSewa,3.1,33119.735,February,2,Thursday,35-44,Enterprise
+1819,2024-04-13,Pokhara,Beauty,2295.02,4,36,eSewa,2.9,9180.08,April,4,Saturday,35-44,Premium
+1820,2024-02-15,Lalitpur,Clothing,2436.54,1,31,eSewa,3.9,2436.54,February,2,Thursday,25-34,Standard
+1821,2024-12-29,Biratnagar,Home & Kitchen,5731.5,1,29,Cash on Delivery,4.6,5731.5,December,12,Sunday,25-34,Premium
+1822,2024-11-10,Chitwan,Beauty,2291.05,1,21,Khalti,4.7,2291.05,November,11,Sunday,16-24,Standard
+1823,2024-10-16,Bhaktapur,Books,2913.04,2,36,Cash on Delivery,5.0,5826.08,October,10,Wednesday,35-44,Premium
+1824,2024-11-15,Kathmandu,Groceries,1611.69,1,29,Bank Transfer,3.0,1611.69,November,11,Friday,25-34,Budget
+1825,2024-08-24,Kathmandu,Groceries,1118.49,2,17,Bank Transfer,3.8,2236.98,August,8,Saturday,16-24,Standard
+1826,2024-05-06,Pokhara,Beauty,3597.86,1,30,Bank Transfer,4.5,3597.86,May,5,Monday,25-34,Standard
+1827,2024-08-15,Lalitpur,Groceries,186.32,1,21,Bank Transfer,3.1,186.32,August,8,Thursday,16-24,Budget
+1828,2024-06-07,Biratnagar,Electronics,16559.8675,2,42,eSewa,4.7,33119.735,June,6,Friday,35-44,Enterprise
+1829,2024-11-26,Pokhara,Electronics,11452.32,1,30,Bank Transfer,4.3,11452.32,November,11,Tuesday,25-34,Enterprise
+1830,2024-04-11,Pokhara,Beauty,391.82,2,26,eSewa,4.5,783.64,April,4,Thursday,25-34,Budget
+1831,2024-04-12,Biratnagar,Books,225.47,1,23,Cash on Delivery,4.1,225.47,April,4,Friday,16-24,Budget
+1832,2024-06-13,Kathmandu,Home & Kitchen,3476.7,2,33,Cash on Delivery,4.1,6953.4,June,6,Thursday,25-34,Premium
+1833,2024-04-01,Bhaktapur,Electronics,16559.8675,1,28,eSewa,2.5,16559.8675,April,4,Monday,25-34,Enterprise
+1834,2024-12-31,Bhaktapur,Groceries,1926.41,2,21,Khalti,3.7,3852.82,December,12,Tuesday,16-24,Standard
+1835,2024-05-28,Lalitpur,Beauty,1002.75,2,18,Khalti,2.6,2005.5,May,5,Tuesday,16-24,Standard
+1836,2024-12-02,Kathmandu,Home & Kitchen,7223.41,1,34,eSewa,4.3,7223.41,December,12,Monday,25-34,Premium
+1837,2024-10-01,Chitwan,Home & Kitchen,13943.28,1,26,Cash on Delivery,4.3,13943.28,October,10,Tuesday,25-34,Enterprise
+1838,2024-08-05,Kathmandu,Books,1151.14,2,20,Cash on Delivery,3.7,2302.28,August,8,Monday,16-24,Standard
+1839,2024-02-17,Chitwan,Groceries,2150.56,2,28,Khalti,4.8,4301.12,February,2,Saturday,25-34,Standard
+1840,2024-08-13,Kathmandu,Home & Kitchen,3814.34,1,30,Bank Transfer,3.2,3814.34,August,8,Tuesday,25-34,Standard
+1841,2024-09-05,Kathmandu,Groceries,568.86,1,22,Khalti,4.6,568.86,September,9,Thursday,16-24,Budget
+1842,2024-12-23,Pokhara,Clothing,1403.95,1,56,Cash on Delivery,3.2,1403.95,December,12,Monday,55-70,Budget
+1843,2024-09-24,Lalitpur,Home & Kitchen,4858.95,1,23,eSewa,5.0,4858.95,September,9,Tuesday,16-24,Standard
+1844,2024-07-02,Kathmandu,Electronics,16559.8675,3,31,eSewa,4.8,49679.6025,July,7,Tuesday,25-34,Enterprise
+1845,2024-10-25,Pokhara,Home & Kitchen,10423.08,1,27,Khalti,4.5,10423.08,October,10,Friday,25-34,Enterprise
+1846,2024-02-26,Biratnagar,Home & Kitchen,11086.29,1,21,eSewa,3.7,11086.29,February,2,Monday,16-24,Enterprise
+1847,2024-04-03,Kathmandu,Clothing,2845.28,1,35,Khalti,2.7,2845.28,April,4,Wednesday,35-44,Standard
+1848,2024-05-28,Bhaktapur,Clothing,2246.26,2,30,eSewa,3.4,4492.52,May,5,Tuesday,25-34,Standard
+1849,2024-10-18,Kathmandu,Books,981.6,1,33,eSewa,4.9,981.6,October,10,Friday,25-34,Budget
+1850,2024-11-16,Kathmandu,Clothing,695.45,1,26,Cash on Delivery,4.7,695.45,November,11,Saturday,25-34,Budget
+1851,2024-10-11,Lalitpur,Clothing,2303.97,1,30,eSewa,3.2,2303.97,October,10,Friday,25-34,Standard
+1852,2024-02-25,Lalitpur,Clothing,3833.97,1,16,eSewa,3.4,3833.97,February,2,Sunday,16-24,Standard
+1853,2024-04-19,Biratnagar,Home & Kitchen,4026.35,1,30,Cash on Delivery,4.7,4026.35,April,4,Friday,25-34,Standard
+1854,2024-05-29,Kathmandu,Beauty,664.62,1,34,eSewa,3.5,664.62,May,5,Wednesday,25-34,Budget
+1855,2024-07-29,Bhaktapur,Beauty,2487.81,2,30,Cash on Delivery,3.7,4975.62,July,7,Monday,25-34,Standard
+1856,2024-08-26,Pokhara,Beauty,2333.83,2,21,Khalti,3.7,4667.66,August,8,Monday,16-24,Standard
+1857,2024-12-09,Chitwan,Electronics,12728.09,2,39,Khalti,4.3,25456.18,December,12,Monday,35-44,Enterprise
+1858,2024-04-20,Chitwan,Electronics,16559.8675,1,16,Khalti,3.5,16559.8675,April,4,Saturday,16-24,Enterprise
+1859,2024-08-23,Pokhara,Electronics,16559.8675,1,32,Bank Transfer,5.0,16559.8675,August,8,Friday,25-34,Enterprise
+1860,2024-07-06,Kathmandu,Home & Kitchen,1697.27,1,38,Bank Transfer,4.1,1697.27,July,7,Saturday,35-44,Budget
+1861,2024-01-08,Kathmandu,Books,1656.32,1,20,Khalti,4.4,1656.32,January,1,Monday,16-24,Budget
+1862,2024-12-03,Lalitpur,Books,2263.02,1,28,eSewa,3.2,2263.02,December,12,Tuesday,25-34,Standard
+1863,2024-12-08,Chitwan,Home & Kitchen,4696.65,1,33,Khalti,4.4,4696.65,December,12,Sunday,25-34,Standard
+1864,2024-11-28,Kathmandu,Beauty,1531.94,1,16,Bank Transfer,3.9,1531.94,November,11,Thursday,16-24,Budget
+1865,2024-05-18,Lalitpur,Beauty,662.76,1,35,Cash on Delivery,2.4,662.76,May,5,Saturday,35-44,Budget
+1866,2024-07-23,Kathmandu,Electronics,16559.8675,1,20,eSewa,4.0,16559.8675,July,7,Tuesday,16-24,Enterprise
+1867,2024-08-02,Biratnagar,Books,2820.1,1,22,eSewa,4.7,2820.1,August,8,Friday,16-24,Standard
+1868,2024-03-12,Chitwan,Clothing,1059.95,4,30,Bank Transfer,3.4,4239.8,March,3,Tuesday,25-34,Standard
+1869,2024-06-14,Lalitpur,Books,1217.3,1,18,Khalti,2.4,1217.3,June,6,Friday,16-24,Budget
+1870,2024-12-24,Chitwan,Books,2594.22,1,39,eSewa,2.9,2594.22,December,12,Tuesday,35-44,Standard
+1871,2024-10-04,Biratnagar,Groceries,1621.33,1,24,eSewa,4.6,1621.33,October,10,Friday,16-24,Budget
+1872,2024-03-13,Chitwan,Beauty,1465.32,1,22,Khalti,4.1,1465.32,March,3,Wednesday,16-24,Budget
+1873,2024-04-21,Kathmandu,Books,1120.09,1,35,eSewa,4.1,1120.09,April,4,Sunday,35-44,Budget
+1874,2024-05-11,Pokhara,Electronics,3062.31,1,24,eSewa,3.2,3062.31,May,5,Saturday,16-24,Standard
+1875,2024-10-11,Chitwan,Clothing,3467.11,1,28,eSewa,2.2,3467.11,October,10,Friday,25-34,Standard
+1876,2024-07-28,Pokhara,Clothing,1019.31,2,23,eSewa,3.6,2038.62,July,7,Sunday,16-24,Standard
+1877,2024-08-15,Biratnagar,Groceries,730.02,1,30,Khalti,5.0,730.02,August,8,Thursday,25-34,Budget
+1878,2024-02-22,Kathmandu,Beauty,515.4,3,26,Bank Transfer,3.2,1546.1999999999998,February,2,Thursday,25-34,Budget
+1879,2024-08-27,Kathmandu,Books,1353.45,3,48,Khalti,4.6,4060.3500000000004,August,8,Tuesday,45-54,Standard
+1880,2024-04-11,Lalitpur,Electronics,16559.8675,1,18,eSewa,4.1,16559.8675,April,4,Thursday,16-24,Enterprise
+1881,2024-09-01,Pokhara,Electronics,16559.8675,1,22,Khalti,4.9,16559.8675,September,9,Sunday,16-24,Enterprise
+1882,2024-12-17,Kathmandu,Books,2084.42,1,23,Bank Transfer,4.7,2084.42,December,12,Tuesday,16-24,Standard
+1883,2024-01-16,Lalitpur,Home & Kitchen,900.77,2,16,Khalti,4.1,1801.54,January,1,Tuesday,16-24,Budget
+1884,2024-11-27,Lalitpur,Electronics,16559.8675,1,23,Cash on Delivery,3.8,16559.8675,November,11,Wednesday,16-24,Enterprise
+1885,2024-09-27,Kathmandu,Electronics,16559.8675,1,24,Khalti,4.2,16559.8675,September,9,Friday,16-24,Enterprise
+1886,2024-07-08,Biratnagar,Books,1019.04,1,31,eSewa,3.0,1019.04,July,7,Monday,25-34,Budget
+1887,2024-05-12,Pokhara,Books,1111.97,1,19,eSewa,4.0,1111.97,May,5,Sunday,16-24,Budget
+1888,2024-05-10,Kathmandu,Home & Kitchen,12191.28,1,31,Cash on Delivery,4.7,12191.28,May,5,Friday,25-34,Enterprise
+1889,2024-11-16,Kathmandu,Groceries,1793.82,2,33,Cash on Delivery,3.8,3587.64,November,11,Saturday,25-34,Standard
+1890,2024-04-20,Kathmandu,Electronics,16559.8675,1,23,eSewa,3.6,16559.8675,April,4,Saturday,16-24,Enterprise
+1891,2024-01-23,Pokhara,Clothing,1250.44,1,26,eSewa,4.5,1250.44,January,1,Tuesday,25-34,Budget
+1892,2024-04-09,Biratnagar,Groceries,2246.04,1,28,eSewa,5.0,2246.04,April,4,Tuesday,25-34,Standard
+1893,2024-08-30,Lalitpur,Books,1927.28,1,35,Khalti,2.8,1927.28,August,8,Friday,35-44,Budget
+1894,2024-04-03,Pokhara,Home & Kitchen,13060.71,3,48,eSewa,4.5,39182.13,April,4,Wednesday,45-54,Enterprise
+1895,2024-11-01,Chitwan,Electronics,16559.8675,1,43,eSewa,3.5,16559.8675,November,11,Friday,35-44,Enterprise
+1896,2024-11-20,Pokhara,Electronics,10290.93,1,29,Khalti,4.7,10290.93,November,11,Wednesday,25-34,Enterprise
+1897,2024-09-13,Pokhara,Clothing,4495.27,1,27,eSewa,4.1,4495.27,September,9,Friday,25-34,Standard
+1898,2024-12-04,Pokhara,Books,1974.63,1,31,Khalti,4.0,1974.63,December,12,Wednesday,25-34,Budget
+1899,2024-12-27,Biratnagar,Home & Kitchen,1076.14,4,31,eSewa,4.9,4304.56,December,12,Friday,25-34,Standard
+1900,2024-05-31,Lalitpur,Home & Kitchen,6945.29,1,16,eSewa,4.3,6945.29,May,5,Friday,16-24,Premium
+1901,2024-01-28,Pokhara,Groceries,318.25,3,29,eSewa,4.0,954.75,January,1,Sunday,25-34,Budget
+1902,2024-08-28,Chitwan,Beauty,461.55,1,28,Cash on Delivery,4.1,461.55,August,8,Wednesday,25-34,Budget
+1903,2024-06-06,Kathmandu,Clothing,4466.69,1,32,eSewa,3.6,4466.69,June,6,Thursday,25-34,Standard
+1904,2024-08-18,Bhaktapur,Beauty,3659.91,2,37,eSewa,4.2,7319.82,August,8,Sunday,35-44,Premium
+1905,2024-08-05,Pokhara,Home & Kitchen,11936.77,1,28,eSewa,3.8,11936.77,August,8,Monday,25-34,Enterprise
+1906,2024-03-12,Lalitpur,Groceries,1905.6,3,29,Cash on Delivery,3.1,5716.799999999999,March,3,Tuesday,25-34,Premium
+1907,2024-09-25,Bhaktapur,Electronics,13853.31,5,26,Khalti,5.0,69266.55,September,9,Wednesday,25-34,Enterprise
+1908,2024-04-05,Kathmandu,Clothing,4701.17,2,48,Cash on Delivery,3.3,9402.34,April,4,Friday,45-54,Premium
+1909,2024-07-10,Lalitpur,Electronics,16257.38,1,16,Cash on Delivery,4.2,16257.38,July,7,Wednesday,16-24,Enterprise
+1910,2024-01-26,Biratnagar,Electronics,16559.8675,2,16,Khalti,4.1,33119.735,January,1,Friday,16-24,Enterprise
+1911,2024-12-13,Kathmandu,Beauty,3481.07,1,39,Khalti,3.7,3481.07,December,12,Friday,35-44,Standard
+1912,2024-03-22,Kathmandu,Clothing,4828.5,1,16,Khalti,4.1,4828.5,March,3,Friday,16-24,Standard
+1913,2024-11-18,Lalitpur,Beauty,1464.78,1,30,Khalti,4.1,1464.78,November,11,Monday,25-34,Budget
+1914,2024-09-13,Kathmandu,Groceries,371.33,2,31,eSewa,5.0,742.66,September,9,Friday,25-34,Budget
+1915,2024-12-04,Pokhara,Groceries,1217.21,1,30,eSewa,3.2,1217.21,December,12,Wednesday,25-34,Budget
+1916,2024-08-10,Pokhara,Electronics,16559.8675,1,41,Khalti,3.7,16559.8675,August,8,Saturday,35-44,Enterprise
+1917,2024-01-06,Kathmandu,Electronics,16559.8675,1,40,Cash on Delivery,5.0,16559.8675,January,1,Saturday,35-44,Enterprise
+1918,2024-03-19,Kathmandu,Home & Kitchen,960.92,1,26,eSewa,3.5,960.92,March,3,Tuesday,25-34,Budget
+1919,2024-02-15,Kathmandu,Beauty,3479.5,1,23,Cash on Delivery,4.2,3479.5,February,2,Thursday,16-24,Standard
+1920,2024-02-29,Kathmandu,Clothing,2947.45,1,30,Cash on Delivery,4.5,2947.45,February,2,Thursday,25-34,Standard
+1921,2024-07-17,Lalitpur,Clothing,4187.43,3,38,eSewa,4.5,12562.29,July,7,Wednesday,35-44,Enterprise
+1922,2024-09-05,Chitwan,Clothing,1261.06,1,34,eSewa,3.9,1261.06,September,9,Thursday,25-34,Budget
+1923,2024-08-05,Bhaktapur,Books,911.29,5,16,eSewa,3.8,4556.45,August,8,Monday,16-24,Standard
+1924,2024-10-13,Kathmandu,Books,1344.62,1,25,Khalti,3.1,1344.62,October,10,Sunday,25-34,Budget
+1925,2024-08-13,Kathmandu,Clothing,1943.2,4,22,Cash on Delivery,5.0,7772.8,August,8,Tuesday,16-24,Premium
+1926,2024-02-28,Biratnagar,Electronics,16559.8675,1,41,Cash on Delivery,4.2,16559.8675,February,2,Wednesday,35-44,Enterprise
+1927,2024-03-09,Chitwan,Electronics,16559.8675,2,23,Khalti,4.2,33119.735,March,3,Saturday,16-24,Enterprise
+1928,2024-11-11,Kathmandu,Clothing,4902.19,1,17,Khalti,4.8,4902.19,November,11,Monday,16-24,Standard
+1929,2024-05-10,Bhaktapur,Electronics,4833.68,3,16,eSewa,3.7,14501.04,May,5,Friday,16-24,Enterprise
+1930,2024-09-03,Kathmandu,Clothing,2869.68,1,21,eSewa,4.3,2869.68,September,9,Tuesday,16-24,Standard
+1931,2024-03-29,Pokhara,Electronics,16559.8675,1,35,Cash on Delivery,3.7,16559.8675,March,3,Friday,35-44,Enterprise
+1932,2024-10-28,Lalitpur,Beauty,3031.16,1,17,eSewa,4.3,3031.16,October,10,Monday,16-24,Standard
+1933,2024-05-14,Chitwan,Beauty,1603.54,1,30,Cash on Delivery,3.2,1603.54,May,5,Tuesday,25-34,Budget
+1934,2024-12-26,Lalitpur,Electronics,16559.8675,1,39,Khalti,4.7,16559.8675,December,12,Thursday,35-44,Enterprise
+1935,2024-12-01,Chitwan,Books,318.16,1,32,eSewa,3.7,318.16,December,12,Sunday,25-34,Budget
+1936,2024-06-04,Pokhara,Clothing,1386.98,2,40,Khalti,4.2,2773.96,June,6,Tuesday,35-44,Standard
+1937,2024-07-07,Kathmandu,Books,631.61,2,31,eSewa,5.0,1263.22,July,7,Sunday,25-34,Budget
+1938,2024-07-13,Pokhara,Books,1891.69,1,37,Cash on Delivery,3.2,1891.69,July,7,Saturday,35-44,Budget
+1939,2024-03-27,Lalitpur,Books,689.4,5,16,Cash on Delivery,4.7,3447.0,March,3,Wednesday,16-24,Standard
+1940,2024-10-13,Kathmandu,Groceries,787.02,1,31,eSewa,5.0,787.02,October,10,Sunday,25-34,Budget
+1941,2024-05-13,Bhaktapur,Groceries,2050.27,1,38,eSewa,2.9,2050.27,May,5,Monday,35-44,Standard
+1942,2024-02-28,Lalitpur,Books,1332.65,1,16,Khalti,5.0,1332.65,February,2,Wednesday,16-24,Budget
+1943,2024-02-21,Lalitpur,Home & Kitchen,8129.11,1,21,eSewa,3.6,8129.11,February,2,Wednesday,16-24,Premium
+1944,2024-03-08,Pokhara,Clothing,3273.14,1,21,Khalti,2.1,3273.14,March,3,Friday,16-24,Standard
+1945,2024-07-02,Bhaktapur,Electronics,16559.8675,1,24,Khalti,3.7,16559.8675,July,7,Tuesday,16-24,Enterprise
+1946,2024-10-19,Biratnagar,Groceries,155.31,2,30,Khalti,4.2,310.62,October,10,Saturday,25-34,Budget
+1947,2024-12-06,Bhaktapur,Clothing,3401.41,1,33,eSewa,3.8,3401.41,December,12,Friday,25-34,Standard
+1948,2024-03-28,Pokhara,Clothing,2467.17,1,27,Bank Transfer,3.7,2467.17,March,3,Thursday,25-34,Standard
+1949,2024-10-04,Pokhara,Home & Kitchen,3997.94,1,27,Khalti,4.7,3997.94,October,10,Friday,25-34,Standard
+1950,2024-11-02,Lalitpur,Beauty,3513.36,2,30,eSewa,3.7,7026.72,November,11,Saturday,25-34,Premium
+1951,2024-02-21,Lalitpur,Electronics,16559.8675,1,16,eSewa,3.6,16559.8675,February,2,Wednesday,16-24,Enterprise
+1952,2024-08-12,Biratnagar,Home & Kitchen,1951.05,2,33,eSewa,4.1,3902.1,August,8,Monday,25-34,Standard
+1953,2024-09-19,Pokhara,Home & Kitchen,13027.81,1,31,Bank Transfer,2.0,13027.81,September,9,Thursday,25-34,Enterprise
+1954,2024-10-08,Bhaktapur,Electronics,9962.52,1,34,Khalti,3.8,9962.52,October,10,Tuesday,25-34,Premium
+1955,2024-09-04,Kathmandu,Home & Kitchen,3986.04,1,30,eSewa,4.4,3986.04,September,9,Wednesday,25-34,Standard
+1956,2024-04-24,Bhaktapur,Home & Kitchen,11426.72,2,32,Bank Transfer,4.2,22853.44,April,4,Wednesday,25-34,Enterprise
+1957,2024-05-20,Pokhara,Beauty,2566.93,1,23,Cash on Delivery,2.9,2566.93,May,5,Monday,16-24,Standard
+1958,2024-03-25,Biratnagar,Books,1600.55,2,20,Khalti,2.7,3201.1,March,3,Monday,16-24,Standard
+1959,2024-01-20,Chitwan,Electronics,16559.8675,2,23,Cash on Delivery,4.7,33119.735,January,1,Saturday,16-24,Enterprise
+1960,2024-08-15,Biratnagar,Groceries,352.64,1,16,Cash on Delivery,4.3,352.64,August,8,Thursday,16-24,Budget
+1961,2024-04-19,Lalitpur,Groceries,1318.95,1,33,eSewa,3.6,1318.95,April,4,Friday,25-34,Budget
+1962,2024-02-26,Biratnagar,Home & Kitchen,5656.72,2,30,Khalti,3.8,11313.44,February,2,Monday,25-34,Enterprise
+1963,2024-11-15,Kathmandu,Books,2178.81,1,44,Bank Transfer,4.6,2178.81,November,11,Friday,35-44,Standard
+1964,2024-10-04,Kathmandu,Home & Kitchen,11226.66,1,30,Cash on Delivery,3.3,11226.66,October,10,Friday,25-34,Enterprise
+1965,2024-07-22,Kathmandu,Clothing,4210.82,1,34,Cash on Delivery,4.7,4210.82,July,7,Monday,25-34,Standard
+1966,2024-05-15,Kathmandu,Clothing,4491.24,2,21,Khalti,4.5,8982.48,May,5,Wednesday,16-24,Premium
+1967,2024-08-18,Kathmandu,Electronics,16559.8675,2,16,eSewa,5.0,33119.735,August,8,Sunday,16-24,Enterprise
+1968,2024-06-08,Pokhara,Groceries,809.97,2,27,eSewa,2.8,1619.94,June,6,Saturday,25-34,Budget
+1969,2024-09-25,Biratnagar,Electronics,16559.8675,4,19,Cash on Delivery,4.3,66239.47,September,9,Wednesday,16-24,Enterprise
+1970,2024-07-28,Chitwan,Electronics,16559.8675,1,30,Khalti,5.0,16559.8675,July,7,Sunday,25-34,Enterprise
+1971,2024-11-18,Kathmandu,Clothing,4488.66,2,39,eSewa,2.9,8977.32,November,11,Monday,35-44,Premium
+1972,2024-02-10,Pokhara,Books,2703.12,4,23,Cash on Delivery,3.7,10812.48,February,2,Saturday,16-24,Enterprise
+1973,2024-09-14,Bhaktapur,Books,760.43,1,41,Cash on Delivery,4.3,760.43,September,9,Saturday,35-44,Budget
+1974,2024-05-04,Kathmandu,Home & Kitchen,10971.82,1,34,Cash on Delivery,4.7,10971.82,May,5,Saturday,25-34,Enterprise
+1975,2024-03-29,Kathmandu,Beauty,2151.33,1,36,Khalti,4.1,2151.33,March,3,Friday,35-44,Standard
+1976,2024-04-19,Chitwan,Beauty,3148.16,1,30,Bank Transfer,4.4,3148.16,April,4,Friday,25-34,Standard
+1977,2024-05-10,Kathmandu,Electronics,16559.8675,1,43,Cash on Delivery,5.0,16559.8675,May,5,Friday,35-44,Enterprise
+1978,2024-11-11,Kathmandu,Books,2350.65,2,26,Khalti,4.5,4701.3,November,11,Monday,25-34,Standard
+1979,2024-03-30,Biratnagar,Electronics,16559.8675,1,38,eSewa,4.1,16559.8675,March,3,Saturday,35-44,Enterprise
+1980,2024-12-04,Lalitpur,Books,2005.22,1,32,Cash on Delivery,4.1,2005.22,December,12,Wednesday,25-34,Standard
+1981,2024-10-28,Pokhara,Beauty,1508.75,1,32,Khalti,4.1,1508.75,October,10,Monday,25-34,Budget
+1982,2024-02-09,Kathmandu,Groceries,525.78,1,45,Khalti,3.6,525.78,February,2,Friday,45-54,Budget
+1983,2024-05-16,Biratnagar,Home & Kitchen,8289.88,1,32,Bank Transfer,3.5,8289.88,May,5,Thursday,25-34,Premium
+1984,2024-01-24,Lalitpur,Groceries,1844.75,1,34,eSewa,3.5,1844.75,January,1,Wednesday,25-34,Budget
+1985,2024-07-07,Kathmandu,Clothing,3197.44,1,21,Cash on Delivery,4.5,3197.44,July,7,Sunday,16-24,Standard
+1986,2024-06-18,Bhaktapur,Electronics,16559.8675,1,34,Cash on Delivery,3.8,16559.8675,June,6,Tuesday,25-34,Enterprise
+1987,2024-09-25,Pokhara,Home & Kitchen,1006.38,1,38,Khalti,5.0,1006.38,September,9,Wednesday,35-44,Budget
+1988,2024-10-29,Kathmandu,Books,1258.47,1,30,eSewa,4.0,1258.47,October,10,Tuesday,25-34,Budget
+1989,2024-04-10,Biratnagar,Beauty,1536.6,1,30,Khalti,4.9,1536.6,April,4,Wednesday,25-34,Budget
+1990,2024-02-09,Kathmandu,Home & Kitchen,13284.7,1,39,Khalti,3.9,13284.7,February,2,Friday,35-44,Enterprise
+1991,2024-02-02,Pokhara,Beauty,2451.27,1,41,eSewa,4.8,2451.27,February,2,Friday,35-44,Standard
+1992,2024-09-10,Kathmandu,Books,2596.3,1,28,Cash on Delivery,4.1,2596.3,September,9,Tuesday,25-34,Standard
+1993,2024-12-13,Biratnagar,Home & Kitchen,6213.47,5,28,eSewa,3.4,31067.350000000002,December,12,Friday,25-34,Enterprise
+1994,2024-08-22,Lalitpur,Beauty,2470.59,1,18,Khalti,2.9,2470.59,August,8,Thursday,16-24,Standard
+1995,2024-03-16,Chitwan,Clothing,3005.3,2,36,eSewa,2.6,6010.6,March,3,Saturday,35-44,Premium
+1996,2024-06-14,Pokhara,Home & Kitchen,6671.21,1,20,Bank Transfer,4.6,6671.21,June,6,Friday,16-24,Premium
+1997,2024-10-17,Pokhara,Electronics,16559.8675,1,29,eSewa,3.5,16559.8675,October,10,Thursday,25-34,Enterprise
+1998,2024-10-27,Kathmandu,Groceries,2179.43,1,39,Cash on Delivery,3.2,2179.43,October,10,Sunday,35-44,Standard
+1999,2024-07-01,Kathmandu,Groceries,1289.57,1,27,eSewa,3.8,1289.57,July,7,Monday,25-34,Budget
+2000,2024-05-13,Pokhara,Clothing,541.4,1,27,Bank Transfer,4.1,541.4,May,5,Monday,25-34,Budget
+2001,2024-05-14,Chitwan,Electronics,2985.96,2,30,Khalti,4.9,5971.92,May,5,Tuesday,25-34,Premium
+2002,2024-08-31,Pokhara,Clothing,2460.8,1,26,Khalti,4.3,2460.8,August,8,Saturday,25-34,Standard
+2003,2024-07-25,Pokhara,Groceries,351.19,2,21,eSewa,4.1,702.38,July,7,Thursday,16-24,Budget
+2004,2024-06-21,Pokhara,Electronics,16559.8675,1,34,Khalti,4.7,16559.8675,June,6,Friday,25-34,Enterprise
+2005,2024-11-02,Biratnagar,Beauty,3574.23,1,28,eSewa,5.0,3574.23,November,11,Saturday,25-34,Standard
+2006,2024-08-02,Kathmandu,Beauty,782.3,2,30,Cash on Delivery,4.9,1564.6,August,8,Friday,25-34,Budget
+2007,2024-07-19,Bhaktapur,Electronics,16559.8675,1,45,Cash on Delivery,3.2,16559.8675,July,7,Friday,45-54,Enterprise
+2008,2024-02-05,Lalitpur,Books,422.85,3,32,eSewa,3.4,1268.5500000000002,February,2,Monday,25-34,Budget
+2009,2024-04-18,Chitwan,Home & Kitchen,12469.58,2,29,eSewa,3.7,24939.16,April,4,Thursday,25-34,Enterprise
+2010,2024-10-06,Pokhara,Beauty,2465.47,1,36,eSewa,4.3,2465.47,October,10,Sunday,35-44,Standard
+2011,2024-06-20,Bhaktapur,Electronics,16559.8675,4,28,Bank Transfer,4.3,66239.47,June,6,Thursday,25-34,Enterprise
+2012,2024-05-10,Biratnagar,Clothing,3213.56,1,34,eSewa,5.0,3213.56,May,5,Friday,25-34,Standard
+2013,2024-02-24,Kathmandu,Home & Kitchen,13550.15,1,30,Cash on Delivery,3.7,13550.15,February,2,Saturday,25-34,Enterprise
+2014,2024-09-15,Chitwan,Groceries,302.53,1,19,Bank Transfer,4.1,302.53,September,9,Sunday,16-24,Budget
+2015,2024-05-06,Lalitpur,Beauty,367.98,1,27,eSewa,4.1,367.98,May,5,Monday,25-34,Budget
+2016,2024-03-01,Biratnagar,Clothing,1953.82,2,34,eSewa,4.9,3907.64,March,3,Friday,25-34,Standard
+2017,2024-07-12,Kathmandu,Home & Kitchen,9441.88,1,28,Bank Transfer,2.9,9441.88,July,7,Friday,25-34,Premium
+2018,2024-05-18,Kathmandu,Home & Kitchen,11243.2,1,31,Khalti,4.7,11243.2,May,5,Saturday,25-34,Enterprise
+2019,2024-05-09,Biratnagar,Home & Kitchen,4454.59,1,48,eSewa,3.5,4454.59,May,5,Thursday,45-54,Standard
+2020,2024-01-31,Kathmandu,Books,1324.32,1,22,eSewa,4.6,1324.32,January,1,Wednesday,16-24,Budget
+2021,2024-06-10,Biratnagar,Home & Kitchen,9166.02,1,31,Cash on Delivery,2.9,9166.02,June,6,Monday,25-34,Premium
+2022,2024-08-08,Biratnagar,Home & Kitchen,9919.38,1,33,eSewa,4.5,9919.38,August,8,Thursday,25-34,Premium
+2023,2024-05-24,Pokhara,Books,1170.11,4,32,Cash on Delivery,3.7,4680.44,May,5,Friday,25-34,Standard
+2024,2024-09-05,Kathmandu,Groceries,1231.86,2,34,Cash on Delivery,4.3,2463.72,September,9,Thursday,25-34,Standard
+2025,2024-07-14,Lalitpur,Home & Kitchen,6446.42,1,37,eSewa,3.8,6446.42,July,7,Sunday,35-44,Premium
+2026,2024-04-14,Kathmandu,Home & Kitchen,14270.89,1,36,eSewa,3.7,14270.89,April,4,Sunday,35-44,Enterprise
+2027,2024-03-06,Bhaktapur,Clothing,1084.54,2,25,Khalti,4.6,2169.08,March,3,Wednesday,25-34,Standard
+2028,2024-08-02,Pokhara,Clothing,2163.82,1,36,Cash on Delivery,4.8,2163.82,August,8,Friday,35-44,Standard
+2029,2024-04-04,Biratnagar,Home & Kitchen,10182.33,4,23,Khalti,3.5,40729.32,April,4,Thursday,16-24,Enterprise
+2030,2024-11-26,Kathmandu,Home & Kitchen,9119.26,4,28,Cash on Delivery,4.7,36477.04,November,11,Tuesday,25-34,Enterprise
+2031,2024-11-27,Pokhara,Electronics,16559.8675,2,18,Khalti,4.5,33119.735,November,11,Wednesday,16-24,Enterprise
+2032,2024-01-16,Biratnagar,Clothing,3319.96,1,29,eSewa,3.8,3319.96,January,1,Tuesday,25-34,Standard
+2033,2024-11-05,Pokhara,Clothing,3789.96,1,37,eSewa,3.0,3789.96,November,11,Tuesday,35-44,Standard
+2034,2024-05-02,Chitwan,Electronics,4158.09,1,26,Cash on Delivery,4.5,4158.09,May,5,Thursday,25-34,Standard
+2035,2024-06-28,Bhaktapur,Clothing,3025.18,1,28,Bank Transfer,3.6,3025.18,June,6,Friday,25-34,Standard
+2036,2024-05-04,Bhaktapur,Books,1331.62,2,18,Bank Transfer,5.0,2663.24,May,5,Saturday,16-24,Standard
+2037,2024-07-05,Kathmandu,Clothing,1014.97,1,32,Cash on Delivery,2.8,1014.97,July,7,Friday,25-34,Budget
+2038,2024-06-28,Pokhara,Groceries,2363.25,2,36,eSewa,5.0,4726.5,June,6,Friday,35-44,Standard
+2039,2024-06-23,Kathmandu,Electronics,16559.8675,1,43,eSewa,5.0,16559.8675,June,6,Sunday,35-44,Enterprise
+2040,2024-05-13,Chitwan,Groceries,816.28,1,26,eSewa,3.9,816.28,May,5,Monday,25-34,Budget
+2041,2024-11-07,Chitwan,Electronics,2604.19,1,17,eSewa,4.2,2604.19,November,11,Thursday,16-24,Standard
+2042,2024-09-29,Bhaktapur,Home & Kitchen,5980.42,2,27,Khalti,3.8,11960.84,September,9,Sunday,25-34,Enterprise
+2043,2024-09-23,Bhaktapur,Beauty,1371.46,1,28,Cash on Delivery,4.1,1371.46,September,9,Monday,25-34,Budget
+2044,2024-02-03,Biratnagar,Electronics,9804.43,1,22,eSewa,5.0,9804.43,February,2,Saturday,16-24,Premium
+2045,2024-10-24,Chitwan,Groceries,852.08,1,25,eSewa,4.4,852.08,October,10,Thursday,25-34,Budget
+2046,2024-02-28,Kathmandu,Electronics,12174.98,1,36,eSewa,5.0,12174.98,February,2,Wednesday,35-44,Enterprise
+2047,2024-09-12,Kathmandu,Beauty,2249.01,1,46,Cash on Delivery,4.4,2249.01,September,9,Thursday,45-54,Standard
+2048,2024-04-23,Lalitpur,Home & Kitchen,1497.97,1,26,Cash on Delivery,5.0,1497.97,April,4,Tuesday,25-34,Budget
+2049,2024-10-17,Biratnagar,Groceries,618.73,1,39,eSewa,3.9,618.73,October,10,Thursday,35-44,Budget
+2050,2024-05-05,Kathmandu,Electronics,16559.8675,1,18,Khalti,5.0,16559.8675,May,5,Sunday,16-24,Enterprise
+2051,2024-01-29,Lalitpur,Home & Kitchen,5663.15,1,45,Khalti,4.2,5663.15,January,1,Monday,45-54,Premium
+2052,2024-09-21,Kathmandu,Electronics,16559.8675,1,30,Cash on Delivery,4.6,16559.8675,September,9,Saturday,25-34,Enterprise
+2053,2024-01-13,Biratnagar,Beauty,1932.72,1,16,Cash on Delivery,2.7,1932.72,January,1,Saturday,16-24,Budget
+2054,2024-12-20,Chitwan,Beauty,2227.23,2,21,eSewa,4.6,4454.46,December,12,Friday,16-24,Standard
+2055,2024-02-16,Kathmandu,Clothing,1665.66,2,43,Bank Transfer,4.5,3331.32,February,2,Friday,35-44,Standard
+2056,2024-03-22,Lalitpur,Groceries,1320.49,1,28,eSewa,4.6,1320.49,March,3,Friday,25-34,Budget
+2057,2024-10-06,Kathmandu,Clothing,4359.94,1,23,Cash on Delivery,4.0,4359.94,October,10,Sunday,16-24,Standard
+2058,2024-03-02,Kathmandu,Home & Kitchen,8732.44,3,20,Khalti,3.9,26197.32,March,3,Saturday,16-24,Enterprise
+2059,2024-01-17,Pokhara,Beauty,2011.09,3,35,Khalti,4.5,6033.2699999999995,January,1,Wednesday,35-44,Premium
+2060,2024-01-31,Kathmandu,Groceries,164.02,1,35,eSewa,4.4,164.02,January,1,Wednesday,35-44,Budget
+2061,2024-11-24,Pokhara,Beauty,3371.12,1,35,eSewa,4.5,3371.12,November,11,Sunday,35-44,Standard
+2062,2024-12-10,Chitwan,Electronics,16559.8675,1,26,eSewa,4.9,16559.8675,December,12,Tuesday,25-34,Enterprise
+2063,2024-06-14,Chitwan,Beauty,2213.35,2,28,eSewa,5.0,4426.7,June,6,Friday,25-34,Standard
+2064,2024-07-25,Lalitpur,Beauty,1917.02,1,16,eSewa,3.9,1917.02,July,7,Thursday,16-24,Budget
+2065,2024-03-17,Kathmandu,Groceries,485.45,1,38,eSewa,4.4,485.45,March,3,Sunday,35-44,Budget
+2066,2024-03-17,Lalitpur,Home & Kitchen,10325.74,2,31,eSewa,3.5,20651.48,March,3,Sunday,25-34,Enterprise
+2067,2024-04-21,Bhaktapur,Groceries,1891.01,1,18,Cash on Delivery,5.0,1891.01,April,4,Sunday,16-24,Budget
+2068,2024-02-14,Biratnagar,Beauty,2146.43,3,39,Cash on Delivery,3.7,6439.289999999999,February,2,Wednesday,35-44,Premium
+2069,2024-02-07,Pokhara,Beauty,1193.57,1,36,Bank Transfer,4.7,1193.57,February,2,Wednesday,35-44,Budget
+2070,2024-05-10,Pokhara,Home & Kitchen,5318.26,1,50,Bank Transfer,3.7,5318.26,May,5,Friday,45-54,Premium
+2071,2024-02-20,Bhaktapur,Books,564.95,1,16,eSewa,4.0,564.95,February,2,Tuesday,16-24,Budget
+2072,2024-08-26,Kathmandu,Home & Kitchen,1114.31,1,30,Khalti,4.3,1114.31,August,8,Monday,25-34,Budget
+2073,2024-05-21,Kathmandu,Electronics,16559.8675,2,34,Khalti,4.1,33119.735,May,5,Tuesday,25-34,Enterprise
+2074,2024-02-25,Bhaktapur,Groceries,1159.71,3,34,eSewa,3.8,3479.13,February,2,Sunday,25-34,Standard
+2075,2024-06-30,Biratnagar,Beauty,3860.09,3,37,eSewa,1.9,11580.27,June,6,Sunday,35-44,Enterprise
+2076,2024-09-28,Pokhara,Books,467.61,1,30,Cash on Delivery,4.0,467.61,September,9,Saturday,25-34,Budget
+2077,2024-10-29,Pokhara,Clothing,2851.58,2,21,Khalti,4.1,5703.16,October,10,Tuesday,16-24,Premium
+2078,2024-11-22,Bhaktapur,Home & Kitchen,11032.33,2,26,eSewa,4.7,22064.66,November,11,Friday,25-34,Enterprise
+2079,2024-09-15,Pokhara,Beauty,815.4,1,19,Bank Transfer,3.3,815.4,September,9,Sunday,16-24,Budget
+2080,2024-09-29,Lalitpur,Beauty,2856.16,2,27,eSewa,4.5,5712.32,September,9,Sunday,25-34,Premium
+2081,2024-02-08,Kathmandu,Clothing,2534.4,2,29,Cash on Delivery,4.7,5068.8,February,2,Thursday,25-34,Premium
+2082,2024-02-06,Pokhara,Groceries,1273.92,2,26,Khalti,4.1,2547.84,February,2,Tuesday,25-34,Standard
+2083,2024-01-25,Chitwan,Home & Kitchen,6361.79,1,30,Cash on Delivery,3.8,6361.79,January,1,Thursday,25-34,Premium
+2084,2024-11-19,Chitwan,Electronics,11250.04,1,37,Cash on Delivery,5.0,11250.04,November,11,Tuesday,35-44,Enterprise
+2085,2024-01-07,Kathmandu,Books,2451.93,1,34,Cash on Delivery,4.5,2451.93,January,1,Sunday,25-34,Standard
+2086,2024-12-28,Lalitpur,Beauty,654.05,3,16,Cash on Delivery,2.8,1962.1499999999999,December,12,Saturday,16-24,Budget
+2087,2024-04-02,Lalitpur,Clothing,3171.68,2,34,Cash on Delivery,4.0,6343.36,April,4,Tuesday,25-34,Premium
+2088,2024-09-16,Biratnagar,Home & Kitchen,7690.99,1,16,Khalti,3.8,7690.99,September,9,Monday,16-24,Premium
+2089,2024-07-13,Chitwan,Books,689.18,1,22,Cash on Delivery,3.1,689.18,July,7,Saturday,16-24,Budget
+2090,2024-03-23,Kathmandu,Electronics,6038.72,1,26,Cash on Delivery,4.3,6038.72,March,3,Saturday,25-34,Premium
+2091,2024-07-29,Kathmandu,Electronics,16559.8675,1,35,Cash on Delivery,5.0,16559.8675,July,7,Monday,35-44,Enterprise
+2092,2024-01-09,Pokhara,Beauty,2308.51,1,44,eSewa,4.1,2308.51,January,1,Tuesday,35-44,Standard
+2093,2024-04-14,Pokhara,Home & Kitchen,7725.61,1,26,eSewa,3.3,7725.61,April,4,Sunday,25-34,Premium
+2094,2024-03-12,Chitwan,Beauty,3974.71,1,30,Khalti,4.1,3974.71,March,3,Tuesday,25-34,Standard
+2095,2024-09-15,Biratnagar,Beauty,3985.25,1,30,eSewa,3.9,3985.25,September,9,Sunday,25-34,Standard
+2096,2024-09-02,Lalitpur,Home & Kitchen,4486.47,1,16,Cash on Delivery,3.5,4486.47,September,9,Monday,16-24,Standard
+2097,2024-04-20,Pokhara,Groceries,2372.9,1,30,Khalti,2.6,2372.9,April,4,Saturday,25-34,Standard
+2098,2024-10-19,Chitwan,Electronics,16559.8675,1,16,Cash on Delivery,5.0,16559.8675,October,10,Saturday,16-24,Enterprise
+2099,2024-03-18,Kathmandu,Home & Kitchen,6661.17,1,21,Cash on Delivery,1.9,6661.17,March,3,Monday,16-24,Premium
+2100,2024-02-04,Chitwan,Clothing,1200.88,2,29,eSewa,4.1,2401.76,February,2,Sunday,25-34,Standard
+2101,2024-11-17,Kathmandu,Clothing,1111.7,1,29,eSewa,3.1,1111.7,November,11,Sunday,25-34,Budget
+2102,2024-01-20,Chitwan,Electronics,16559.8675,1,44,Khalti,3.4,16559.8675,January,1,Saturday,35-44,Enterprise
+2103,2024-10-16,Pokhara,Books,443.43,1,19,eSewa,2.2,443.43,October,10,Wednesday,16-24,Budget
+2104,2024-08-01,Bhaktapur,Books,1104.34,1,20,Khalti,4.6,1104.34,August,8,Thursday,16-24,Budget
+2105,2024-04-26,Bhaktapur,Home & Kitchen,4910.87,1,40,Cash on Delivery,4.9,4910.87,April,4,Friday,35-44,Standard
+2106,2024-04-30,Lalitpur,Books,2624.04,2,35,Khalti,3.2,5248.08,April,4,Tuesday,35-44,Premium
+2107,2024-10-02,Pokhara,Groceries,1884.0,1,29,eSewa,4.3,1884.0,October,10,Wednesday,25-34,Budget
+2108,2024-01-23,Kathmandu,Beauty,2485.79,1,36,eSewa,3.4,2485.79,January,1,Tuesday,35-44,Standard
+2109,2024-03-07,Chitwan,Electronics,11099.09,1,39,eSewa,4.8,11099.09,March,3,Thursday,35-44,Enterprise
+2110,2024-03-07,Kathmandu,Electronics,12480.4,4,20,Khalti,3.6,49921.6,March,3,Thursday,16-24,Enterprise
+2111,2024-08-22,Biratnagar,Books,2079.83,1,26,Khalti,4.3,2079.83,August,8,Thursday,25-34,Standard
+2112,2024-02-28,Lalitpur,Electronics,16559.8675,2,35,eSewa,4.0,33119.735,February,2,Wednesday,35-44,Enterprise
+2113,2024-09-26,Kathmandu,Clothing,999.78,1,39,Khalti,3.1,999.78,September,9,Thursday,35-44,Budget
+2114,2024-08-14,Lalitpur,Beauty,733.07,1,33,Khalti,3.5,733.07,August,8,Wednesday,25-34,Budget
+2115,2024-02-27,Pokhara,Clothing,2751.5,1,22,Khalti,4.8,2751.5,February,2,Tuesday,16-24,Standard
+2116,2024-01-20,Pokhara,Clothing,2984.72,2,27,Khalti,3.8,5969.44,January,1,Saturday,25-34,Premium
+2117,2024-02-02,Bhaktapur,Groceries,187.65,1,16,Khalti,5.0,187.65,February,2,Friday,16-24,Budget
+2118,2024-03-10,Kathmandu,Groceries,668.35,1,39,eSewa,3.0,668.35,March,3,Sunday,35-44,Budget
+2119,2024-11-27,Lalitpur,Books,2557.41,1,18,eSewa,5.0,2557.41,November,11,Wednesday,16-24,Standard
+2120,2024-05-20,Biratnagar,Books,2393.34,1,34,eSewa,3.8,2393.34,May,5,Monday,25-34,Standard
+2121,2024-09-10,Pokhara,Clothing,1334.35,1,25,Cash on Delivery,4.1,1334.35,September,9,Tuesday,25-34,Budget
+2122,2024-01-19,Lalitpur,Home & Kitchen,7058.87,5,29,eSewa,3.3,35294.35,January,1,Friday,25-34,Enterprise
+2123,2024-02-15,Bhaktapur,Clothing,4374.54,1,25,Khalti,4.5,4374.54,February,2,Thursday,25-34,Standard
+2124,2024-11-28,Kathmandu,Beauty,1595.88,3,19,Cash on Delivery,4.3,4787.64,November,11,Thursday,16-24,Standard
+2125,2024-12-10,Kathmandu,Beauty,3324.43,3,38,eSewa,3.6,9973.289999999999,December,12,Tuesday,35-44,Premium
+2126,2024-09-16,Kathmandu,Books,370.55,1,36,Bank Transfer,3.7,370.55,September,9,Monday,35-44,Budget
+2127,2024-12-26,Kathmandu,Home & Kitchen,937.75,1,30,eSewa,4.1,937.75,December,12,Thursday,25-34,Budget
+2128,2024-03-24,Pokhara,Clothing,4606.63,2,39,Cash on Delivery,4.2,9213.26,March,3,Sunday,35-44,Premium
+2129,2024-09-14,Kathmandu,Home & Kitchen,8662.94,5,43,eSewa,4.6,43314.700000000004,September,9,Saturday,35-44,Enterprise
+2130,2024-09-28,Pokhara,Electronics,4696.66,1,39,Khalti,4.3,4696.66,September,9,Saturday,35-44,Standard
+2131,2024-08-13,Kathmandu,Groceries,1044.93,1,25,Cash on Delivery,3.8,1044.93,August,8,Tuesday,25-34,Budget
+2132,2024-08-23,Pokhara,Beauty,2840.37,1,39,Bank Transfer,3.9,2840.37,August,8,Friday,35-44,Standard
+2133,2024-12-16,Chitwan,Beauty,3496.56,2,16,Khalti,4.5,6993.12,December,12,Monday,16-24,Premium
+2134,2024-03-08,Kathmandu,Clothing,3041.69,1,17,eSewa,4.3,3041.69,March,3,Friday,16-24,Standard
+2135,2024-07-19,Lalitpur,Books,940.87,1,31,eSewa,5.0,940.87,July,7,Friday,25-34,Budget
+2136,2024-08-08,Lalitpur,Books,386.9,1,16,eSewa,3.6,386.9,August,8,Thursday,16-24,Budget
+2137,2024-05-14,Pokhara,Home & Kitchen,5468.19,2,37,Cash on Delivery,3.5,10936.38,May,5,Tuesday,35-44,Enterprise
+2138,2024-03-18,Biratnagar,Clothing,2990.42,1,31,Khalti,5.0,2990.42,March,3,Monday,25-34,Standard
+2139,2024-12-08,Lalitpur,Beauty,1053.75,1,25,Khalti,5.0,1053.75,December,12,Sunday,25-34,Budget
+2140,2024-04-30,Biratnagar,Beauty,452.54,1,42,Khalti,5.0,452.54,April,4,Tuesday,35-44,Budget
+2141,2024-04-11,Chitwan,Electronics,16559.8675,1,48,Bank Transfer,3.7,16559.8675,April,4,Thursday,45-54,Enterprise
+2142,2024-12-18,Lalitpur,Books,407.89,1,39,Cash on Delivery,3.2,407.89,December,12,Wednesday,35-44,Budget
+2143,2024-02-11,Biratnagar,Home & Kitchen,7686.89,1,42,Khalti,4.1,7686.89,February,2,Sunday,35-44,Premium
+2144,2024-09-02,Lalitpur,Beauty,453.55,1,30,Khalti,3.8,453.55,September,9,Monday,25-34,Budget
+2145,2024-01-10,Chitwan,Books,2569.13,2,28,eSewa,3.2,5138.26,January,1,Wednesday,25-34,Premium
+2146,2024-12-15,Pokhara,Home & Kitchen,10225.94,1,23,Cash on Delivery,3.8,10225.94,December,12,Sunday,16-24,Enterprise
+2147,2024-03-02,Kathmandu,Electronics,16559.8675,3,35,Cash on Delivery,4.2,49679.6025,March,3,Saturday,35-44,Enterprise
+2148,2024-11-21,Kathmandu,Home & Kitchen,11265.35,1,25,eSewa,4.1,11265.35,November,11,Thursday,25-34,Enterprise
+2149,2024-12-07,Lalitpur,Clothing,1698.05,1,34,Khalti,4.7,1698.05,December,12,Saturday,25-34,Budget
+2150,2024-04-05,Biratnagar,Electronics,14259.0,1,26,Cash on Delivery,5.0,14259.0,April,4,Friday,25-34,Enterprise
+2151,2024-12-17,Kathmandu,Electronics,16559.8675,4,26,eSewa,4.0,66239.47,December,12,Tuesday,25-34,Enterprise
+2152,2024-04-25,Kathmandu,Clothing,3659.74,1,40,Cash on Delivery,2.6,3659.74,April,4,Thursday,35-44,Standard
+2153,2024-01-02,Chitwan,Groceries,399.37,1,27,Khalti,5.0,399.37,January,1,Tuesday,25-34,Budget
+2154,2024-04-12,Kathmandu,Home & Kitchen,14194.84,1,31,Khalti,3.7,14194.84,April,4,Friday,25-34,Enterprise
+2155,2024-04-17,Kathmandu,Home & Kitchen,14801.08,3,17,Cash on Delivery,2.6,44403.24,April,4,Wednesday,16-24,Enterprise
+2156,2024-12-11,Bhaktapur,Electronics,16559.8675,2,31,eSewa,5.0,33119.735,December,12,Wednesday,25-34,Enterprise
+2157,2024-07-01,Kathmandu,Books,1842.85,2,51,Khalti,3.8,3685.7,July,7,Monday,45-54,Standard
+2158,2024-01-21,Bhaktapur,Clothing,3181.77,1,16,Khalti,3.2,3181.77,January,1,Sunday,16-24,Standard
+2159,2024-08-23,Lalitpur,Beauty,3386.3,2,34,eSewa,4.1,6772.6,August,8,Friday,25-34,Premium
+2160,2024-10-31,Kathmandu,Beauty,3750.79,1,21,Bank Transfer,4.2,3750.79,October,10,Thursday,16-24,Standard
+2161,2024-04-02,Kathmandu,Books,1231.97,4,16,eSewa,4.5,4927.88,April,4,Tuesday,16-24,Standard
+2162,2024-01-28,Bhaktapur,Home & Kitchen,4646.91,2,42,Khalti,4.1,9293.82,January,1,Sunday,35-44,Premium
+2163,2024-01-03,Pokhara,Groceries,2343.16,1,21,Cash on Delivery,3.9,2343.16,January,1,Wednesday,16-24,Standard
+2164,2024-01-13,Kathmandu,Clothing,2567.67,5,36,Bank Transfer,5.0,12838.35,January,1,Saturday,35-44,Enterprise
+2165,2024-05-10,Pokhara,Home & Kitchen,9309.97,1,34,Bank Transfer,3.4,9309.97,May,5,Friday,25-34,Premium
+2166,2024-12-20,Lalitpur,Groceries,1499.24,3,16,Khalti,4.8,4497.72,December,12,Friday,16-24,Standard
+2167,2024-07-08,Lalitpur,Books,2570.35,1,16,Cash on Delivery,3.5,2570.35,July,7,Monday,16-24,Standard
+2168,2024-03-10,Pokhara,Groceries,2325.68,1,25,eSewa,3.8,2325.68,March,3,Sunday,25-34,Standard
+2169,2024-04-16,Kathmandu,Home & Kitchen,13976.67,1,16,eSewa,5.0,13976.67,April,4,Tuesday,16-24,Enterprise
+2170,2024-02-04,Pokhara,Home & Kitchen,5553.24,1,26,Khalti,3.7,5553.24,February,2,Sunday,25-34,Premium
+2171,2024-12-12,Kathmandu,Beauty,1965.98,1,18,eSewa,4.7,1965.98,December,12,Thursday,16-24,Budget
+2172,2024-03-23,Chitwan,Books,1116.22,1,22,Cash on Delivery,3.4,1116.22,March,3,Saturday,16-24,Budget
+2173,2024-05-07,Biratnagar,Groceries,1749.74,1,34,eSewa,4.2,1749.74,May,5,Tuesday,25-34,Budget
+2174,2024-01-16,Pokhara,Clothing,1893.94,1,21,eSewa,5.0,1893.94,January,1,Tuesday,16-24,Budget
+2175,2024-12-14,Pokhara,Electronics,3863.69,1,33,Bank Transfer,4.5,3863.69,December,12,Saturday,25-34,Standard
+2176,2024-02-13,Pokhara,Electronics,16559.8675,1,41,Bank Transfer,4.5,16559.8675,February,2,Tuesday,35-44,Enterprise
+2177,2024-03-09,Biratnagar,Clothing,3081.44,1,27,Khalti,3.7,3081.44,March,3,Saturday,25-34,Standard
+2178,2024-07-08,Kathmandu,Groceries,917.57,1,37,eSewa,3.4,917.57,July,7,Monday,35-44,Budget
+2179,2024-04-05,Bhaktapur,Groceries,744.88,1,37,eSewa,2.4,744.88,April,4,Friday,35-44,Budget
+2180,2024-11-03,Kathmandu,Electronics,16559.8675,1,32,Khalti,4.8,16559.8675,November,11,Sunday,25-34,Enterprise
+2181,2024-04-24,Kathmandu,Groceries,278.4,4,39,Cash on Delivery,3.7,1113.6,April,4,Wednesday,35-44,Budget
+2182,2024-07-03,Pokhara,Electronics,16559.8675,2,22,Khalti,4.5,33119.735,July,7,Wednesday,16-24,Enterprise
+2183,2024-03-29,Pokhara,Books,1490.71,1,17,Khalti,3.6,1490.71,March,3,Friday,16-24,Budget
+2184,2024-02-20,Kathmandu,Electronics,16559.8675,1,37,eSewa,3.8,16559.8675,February,2,Tuesday,35-44,Enterprise
+2185,2024-07-05,Kathmandu,Home & Kitchen,10816.15,1,33,Khalti,4.8,10816.15,July,7,Friday,25-34,Enterprise
+2186,2024-01-24,Kathmandu,Groceries,1412.03,2,59,Cash on Delivery,4.5,2824.06,January,1,Wednesday,55-70,Standard
+2187,2024-06-16,Biratnagar,Clothing,3116.15,2,55,Cash on Delivery,3.9,6232.3,June,6,Sunday,55-70,Premium
+2188,2024-02-18,Kathmandu,Groceries,2203.15,1,25,Cash on Delivery,4.2,2203.15,February,2,Sunday,25-34,Standard
+2189,2024-07-31,Chitwan,Groceries,1695.52,1,23,eSewa,5.0,1695.52,July,7,Wednesday,16-24,Budget
+2190,2024-05-30,Kathmandu,Groceries,1395.08,1,19,Khalti,4.9,1395.08,May,5,Thursday,16-24,Budget
+2191,2024-12-15,Kathmandu,Electronics,16559.8675,1,17,Khalti,4.2,16559.8675,December,12,Sunday,16-24,Enterprise
+2192,2024-02-18,Kathmandu,Electronics,16559.8675,1,30,Khalti,4.1,16559.8675,February,2,Sunday,25-34,Enterprise
+2193,2024-05-12,Kathmandu,Books,1677.35,1,16,Bank Transfer,5.0,1677.35,May,5,Sunday,16-24,Budget
+2194,2024-06-04,Lalitpur,Electronics,16559.8675,1,29,Bank Transfer,4.0,16559.8675,June,6,Tuesday,25-34,Enterprise
+2195,2024-07-27,Kathmandu,Groceries,1782.74,1,45,eSewa,4.6,1782.74,July,7,Saturday,45-54,Budget
+2196,2024-07-09,Kathmandu,Books,2202.66,1,25,eSewa,2.2,2202.66,July,7,Tuesday,25-34,Standard
+2197,2024-01-14,Kathmandu,Electronics,16559.8675,1,49,eSewa,3.4,16559.8675,January,1,Sunday,45-54,Enterprise
+2198,2024-09-22,Pokhara,Groceries,951.99,1,33,eSewa,4.8,951.99,September,9,Sunday,25-34,Budget
+2199,2024-05-11,Pokhara,Clothing,3478.06,1,16,Khalti,4.3,3478.06,May,5,Saturday,16-24,Standard
